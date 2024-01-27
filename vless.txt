@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-27-Jan-2024 04:05
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-27-Jan-2024 05:10
 vless://570ea966-57bc-4922-bdb4-f0b79cc5737d@[::ffff:ac40:99cd]:8443?mode=gun&amp;security…
 vless://c26e69ca-e2b6-44de-bc48-20b0960c5a1d@104.25.254.88:8443?security=tls&amp;encryption=none&amp;type=grpc&amp;sni=freedom.freoce.life&amp;fp=chrome&amp;serviceName=@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN&amp;alpn=h2,http/1.1#@lrnbymaa
 vless://a9d05cae-39fe-45f8-8887-7e18abe7395a@hatunnel-vpn.camdve.store:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=TDGCCAyrUZJ_NHINCwvDNrJWKy5KzQ2xlme0J3hRDHY&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@Hatunnel_vpn,@Hatunnel_vpn,@Hatunnel_vpn&amp;sni=mihanyas.ir&amp;sid=15ed3de4#%40lrnbymaa
@@ -795,14 +795,12 @@ vless://92669584-6357-4c04-88da-60c1b1ea953d@ips.configforvpn.fun:8080?path=%2Fh
 vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
-vless://Telegram---V2ray_vpn_ir@209.38.188.68:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;type=ws#https://t.me/m_vipv2ray
-vless://Telegram---V2ray_vpn_ir@188.166.135.26:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;type=ws#https://t.me/m_vipv2ray
+vless://691a087a-f23c-4162-99f5-6d3270a08108@95.216.208.84:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=e04ffyItLlsxgGAYbVvWPE5PG7XYJIR4Gu_uv1qzTk0&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=54052ca6&amp;sni=greenpepper.ir&amp;spx=%2F&amp;type=grpc#1
+vless://ac4ca222-1c50-4f96-bd13-7a9498f8ea28@49.13.72.241:443?fp=firefox&amp;pbk=pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4&amp;security=reality&amp;serviceName=%40Fnet00&amp;sid=0960546b&amp;sni=greenpepper.ir&amp;spx=%2F&amp;type=grpc#5
+vless://fd8959a7-1e3d-41d3-bc03-60686c2081c9@167.71.33.74:8080?encryption=none&amp;fp=chrome&amp;mode=gun&amp;pbk=TdyVchT3qabnfav2_oXs8JPA6EP4_1OLF4AM2uKTtU0&amp;security=reality&amp;serviceName=%40ZEDMODEON&amp;sid=977ebe48&amp;sni=itpsysteme.de&amp;spx=%2F&amp;type=grpc#6
+vless://691a087a-f23c-4162-99f5-6d3270a08108@95.216.208.84:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=bW1C6fFy3N0yQwUmHCjaVThWl6fKQJcIq9CaAaYxbQ0&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=54052ca6&amp;sni=greenpepper.ir&amp;spx=%2F&amp;type=grpc#2
 vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40sabz_v2ray+%7CTELEGRAM
 vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40sabz_v2ray+%7CTELEGRAM
-vless://017a53d3-d4b3-4484-986f-a456602e0a46@104.19.101.129:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch3.v2free1.website&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+20.0+GB+%7C+3d
-vless://017a53d3-d4b3-4484-986f-a456602e0a46@104.19.101.129:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch3.v2free1.website&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+20.0+GB+%7C+3d
 vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40sabz_v2ray+%7CTELEGRAM
-vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40sabz_v2ray+%7CTELEGRAM
-vless://7cbce08d-1aed-4340-bce1-f9d733322c36@104.17.101.35:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch2.v2free1.website&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+10.0+GB+%7C+1d
 vless://b5fca409-f7dc-4f65-8729-480d7322228f@tr-1.parsrouteproxy.online:2053?security=tls&amp;type=ws&amp;host=tr-1.parsrouteproxy.online&amp;headerType=&amp;path=%2Fws&amp;sni=tr-1.parsrouteproxy.online&amp;fp=chrome&amp;alpn=#%F0%9F%87%B9%F0%9F%87%B7%20Istanbul%20CDN
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
