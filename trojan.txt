@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-28-Jan-2024 18:37
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-28-Jan-2024 19:40
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -118,10 +118,4 @@ trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&amp;
 trojan://1@www.speedtest.net:80?path=%2F&amp;security=none&amp;host=redproxy.xyz&amp;type=ws#1
 trojan://1@www.speedtest.net:80?path=%2F&amp;security=none&amp;host=redproxy.xyz&amp;type=ws#1
 trojan://1@www.speedtest.net:80?path=%2F&amp;security=none&amp;host=redproxy.xyz&amp;type=ws#1  vless://18a511e4-6e33-4bdd-ac2d-c9cf564f6c…
-trojan://telegram-id-directvpn@52.210.107.173:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#[
-trojan://telegram-id-privatevpns@3.79.143.41:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#[
-trojan://telegram-id-privatevpns@3.79.143.41:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S114)
-trojan://telegram-id-directvpn@52.210.107.173:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#[
-trojan://telegram-id-privatevpns@3.79.143.41:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#[
-trojan://telegram-id-privatevpns@3.79.143.41:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#[
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
