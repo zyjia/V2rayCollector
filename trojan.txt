@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-29-Jan-2024 18:38
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-29-Jan-2024 19:39
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -50,6 +50,7 @@ trojan://4fd4c27a-2b01-4dd6-94ee-a2c465542177@185.18.250.145:443?security=tls&am
 trojan://7884d564-5873-4321-9fad-b5f82236d79e@173.245.58.170:443?security=tls&amp;sni=1.digikala.sbs&amp;alpn=http%2F1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=dxgVtBfHcBj8UXo&amp;mode=gun#%40vmessprotocol%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
 trojan://7884d564-5873-4321-9fad-b5f82236d79e@185.18.250.220:443?security=tls&amp;sni=1.digikala.sbs&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=dxgVtBfHcBj8UXo&amp;mode=gun#%40vmessprotocol%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
 trojan://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@clean1.freelines.net:443?type=ws&amp;host=rsfrndc.foriran.trade&amp;path=/3D8U0cLhe2MGwH9c1eh1994&amp;security=tls&amp;fp=chrome&amp;sni=rsfrndc.foriran.trade#@vmessprotocol%20%F0%9F%9A%80%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
+trojan://1YcFVMZWx_OiEBEvnEMtrg@190.93.245.187:2083?security=tls&amp;sni=arv2.aticloud.ir&amp;type=ws&amp;host=arv2.aticloud.ir&amp;path=%2F#%40vmessprotocol%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
 trojan://user@s1.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s1.mynameismahsa.info#FI-S1-Sweden-Trojan
 trojan://user@s2.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s2.mynameismahsa.info#FI-S2-Germany-Trojan
 trojan://user@s3.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s3.mynameismahsa.info#FI-S3-India-Trojan
