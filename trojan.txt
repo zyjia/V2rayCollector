@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-01-Feb-2024 05:15
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-01-Feb-2024 05:49
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -116,4 +116,5 @@ trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&amp;
 trojan://1@www.speedtest.net:80?path=%2F&amp;security=none&amp;host=redproxy.xyz&amp;type=ws#1
 trojan://1@www.speedtest.net:80?path=%2F&amp;security=none&amp;host=redproxy.xyz&amp;type=ws#1
 trojan://1@www.speedtest.net:80?path=%2F&amp;security=none&amp;host=redproxy.xyz&amp;type=ws#1  vless://18a511e4-6e33-4bdd-ac2d-c9cf564f6c…
+trojan://c0d52b60-c059-11ee-ac5f-1239d0255272@103.253.24.212:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=sg1-trojan.bonds.id#%F0%9F%87%B8%F0%9F%87%AC%EF%BD%9CSG%EF%BD%9C%E6%96%B0%E5%8A%A0%E5%9D%A1%EF%BD%9C%40wxgqlfx%EF%BD%9C110
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
