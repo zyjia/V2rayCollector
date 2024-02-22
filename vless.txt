@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-22-Feb-2024 05:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-22-Feb-2024 06:39
 vless://9b76baa9-4269-4c46-aaec-4d884a305da0@[::ffff:681a:f50]:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=8443vless&amp;sni=g.networknim.lol#%F0%9F%87%A9%F0%9F%87%AA+Germany-grpc+%28networknim%29
 vless://69e278cb-d671-4a10-afd5-1d8cd03ac56c@donald.pydri.ir:8080?security=none&amp;encryption=none&amp;type=ws&amp;path=/#@Lrnbymaa
 vless://750eb3e6-7e0b-47b9-a6f2-79bd409ca7a8@tr1.tucn-serves.info:56809?security=tls&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp#%D8%AA%D8%B1%DA%A9%DB%8C%D9%87+%F0%9F%87%B9%F0%9F%87%B7%28%D8%A2%DB%8C%D9%BE%DB%8C+%D8%AB%D8%A7%D8%A8%D8%AA%29++%40lrnbymaa
@@ -688,7 +688,6 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://SVNTEAM@mtn.vpnprosec.com:2096/?type=grpc&amp;encryption=none&amp;flow=&amp;security=tls&amp;sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%22Telegram%2
-vless://7557110e-1d0c-4400-8960-4c9d34d41e30@162.159.243.5:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=490418932.xn--uirs2olv2a.top#
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.193:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=always-online1.lp-airdrop.top#
-vless://e2443e49-e0ce-4628-808f-76469b53cf66@45.80.108.176:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=net1.zxv.biz.id#
+vless://7f55b425-a623-439b-bbd5-0b1778162054@allmc.azaronline.org:80?path=%40V2ray_God%3DTelegram%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Free1V2rayGod.xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.site.&amp;type=ws#
+vless://59219122-d989-424e-83e6-50edd3fa644a@5.75.133.63:58769?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
