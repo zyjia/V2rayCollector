@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-01-Mar-2024 11:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-01-Mar-2024 12:40
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -33,6 +33,7 @@ trojan://telegram-id-privatevpns@34.249.165.6:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@54.75.39.6:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S120)
 trojan://telegram-id-privatevpns@16.171.86.53:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.50.24.156:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S102)
+trojan://telegram-id-privatevpns@18.193.187.115:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S103)
 trojan://user@s1.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s1.mynameismahsa.info#FI-S1-Sweden-Trojan
 trojan://user@s2.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s2.mynameismahsa.info#FI-S2-Germany-Trojan
 trojan://user@s3.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s3.mynameismahsa.info#FI-S3-India-Trojan
