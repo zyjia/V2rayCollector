@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-02-Mar-2024 06:38
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-02-Mar-2024 07:40
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -111,5 +111,6 @@ trojan://telegram-id-directvpn@18.189.227.186:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-directvpn@18.220.185.251:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#ConfigV2RayNG
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom
 trojan://qG9K8AGnn9XH5jUqeFu96g@188.114.96.3:2083?path=%2F&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=cdn13.cdn2cdn.com&amp;fp=firefox&amp;type=ws&amp;sni=cdn13.cdn2cdn.com#%40V2rayNGVPN
-trojan://6pROyVzFEd@zula.ir:443?security=tls&amp;sni=neil-delhi-brown-charging.trycloudflare.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=neil-delhi-brown-charging.trycloudflare.com&amp;path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs#
+trojan://qG9K8AGnn9XH5jUqeFu96g@188.114.96.3:2083?path=%2F&amp;security=tls&amp;host=cdn13.cdn2cdn.com&amp;type=ws&amp;sni=cdn13.cdn2cdn.com#
+trojan://qG9K8AGnn9XH5jUqeFu96g@188.114.96.3:2083?path=%2F&amp;security=tls&amp;host=cdn13.cdn2cdn.com&amp;type=ws&amp;sni=cdn13.cdn2cdn.com#
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
