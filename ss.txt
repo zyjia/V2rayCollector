@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-17-Mar-2024 06:38
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-17-Mar-2024 07:40
 ss://d2359ad8-c61f-473a-8abd-5d827214d5b9@gost.xxxdomain.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 ss://d2359ad8-c61f-473a-8abd-5d827214d5b9@gost.xxxdomain.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 ss://ewogICJ2IjogIjIiLAogICJwcyI6ICJCZWl0ZW4tMWV1czB0bGV5IiwKICAiYWRkIjogImEueGRzYXplcm9hbWlycGFuZC50b3AiLAogICJwb3J0IjogMTY2NzgsCiAgImlkIjogImQyZDJkZmZmLTZhZmQtNDQxZi1jNzg2LTIwNmUzZjc5NTU3YSIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAidmFyemVzaDMuY29tIgp9
@@ -122,16 +122,6 @@ ss://da313777-3034-48b9-acdb-b9525bedce20@cdweed.shadan.online:8443?mode=gun&amp
 ss://672b9eb0-2dd1-438a-b98f-f3f3cbdea480@195.88.208.210:36165?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40v2rayvpnchannel
 ss://24b7c23d-2039-4ba1-a797-731f98fda4d1@195.88.208.210:36165?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#@v2rayvpnchannel
 ss://34cca50d-721a-4d01-9288-0ae36afa81dd@cdweed.shadan.online:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=weed.shadan.online#%40v2rayvpnchannel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1bDUyQUhLbVNoZk1KTi9sMHpVaE1YTUM3VnFhMUp5SGswS3ZPbWpidHZRPQ==@3.79.33.242:2082#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#Bahrain
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#United Kingdom
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#United Kingdom
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#Bahrain
-ss://8633c34c-573a-4e2c-b3bf-1b6ea42101f0@turkey-01.ptu.ink:443?security=reality&amp;encryption=none&amp;pbk=zGp41QGUA2TBVirEaFS34_n05w38JxQHKbqQxS-iHzM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=cd2ccdd9761335d4#Turkiye
-ss://aa3cdc67-e3f4-4032-99e9-7764a58d1e1b@saint-petersburg-03.ptu.ink:443?security=reality&amp;encryption=none&amp;pbk=p1GJYEqIFZG-usLS30mHcVXYwHZbSULCabixH2jWf0c&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=cbcb4abf4d75f0c4#Russian Federation
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#Bahrain
 ss://SVNTEAM@188.40.14.212:80/?type=ws&amp;path=%2FSVNTEAM%3Fed%3D1048&amp;host=SVNTEAM-V2ray-GM.xn--fhq0la447aac5504dea701axr1g.Com&amp;security=none#Germany
 ss://SVNTEAM@www.speedtest.net:8080/?type=ws&amp;path=%2FSVNTEAM%3Fed%3D2048&amp;host=SVNTEAM-V2ray-GM.xn--fhq0la447aac5504dea701axr1g.Com.&amp;security=none#United States 
 ss://SVNTEAM@www.speedtest.net:8080/?type=ws&amp;path=%2FSVNTEAM%3Fed%3D2048&amp;host=SVNTEAM-V2ray-GM.xn--fhq0la447aac5504dea701axr1g.Com.&amp;security=none#United States 
@@ -314,6 +304,16 @@ ss://f6f3b2e4-1b31-4331-b7cd-e2f4cca9c755@iranserver.com:443?mode=gun&amp;securi
 ss://1db1dac2-83be-4037-943d-10f34972afa2@trv2ray-ip.mpyana.ir:54519?type=tcp&amp;serviceName=/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023&amp;host=uplod.ir&amp;headerType=http&amp;security=none#United Kingdom
 ss://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.89.170:443?path=Telegram%40SINABIGO%40SINABIGO%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#United States 
 ss://b75894b2-ca11-4f50-b4b0-202a35caaaeb@Www.Speedtest.net:80?path=%2FTelegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&amp;security=none&amp;encryption=none&amp;host=nazaa.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.com.&amp;type=ws#United States 
+ss://eyJhZGQiOiAiMTcyLjY3LjIwMS4yMDAiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJtYWdnaXkuc2hvcCIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyBcdTI2MDJcdWZlMGZEYWlseVYycnkiLCAic2N5IjogImF1dG8iLCAic25pIjogIm1hZ2dpeS5zaG9wIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+ss://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@gama.ir:2087?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=guq22.oxNEtwoRkS.LiNk&amp;type=ws&amp;sni=guq22.oxNEtwoRkS.LiNk#United States 
+ss://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=biA.ALlhub.LTD&amp;type=ws&amp;sni=Bia.alLhub.Ltd#United States 
+ss://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@injaro.outline-vpn.cloud:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=FIltEr-1tg.pagEs.DeV&amp;type=ws&amp;sni=filTer-1tg.pAges.DeV#United States 
+ss://2285fc48-b76e-4251-b0ef-4fe35095bb36@1.v2box.sbs:443?hiddify=1&amp;sni=1.v2box.sbs&amp;type=grpc&amp;alpn=h2&amp;path=MXGpRzY3D4lrjnYYISL8BtK&amp;host=1.v2box.sbs&amp;serviceName=MXGpRzY3D4lrjnYYISL8BtK&amp;mode=gun&amp;encryption=none&amp;fp=chrome&amp;headerType=None&amp;security=tls#Germany
+ss://telegram-id-ArV2ray@49.12.22.198:443?security=reality&amp;sni=check-host.net&amp;fp=firefox&amp;pbk=7eQeVx7__rW0OT9DgFJRwNFe_4nFAMfR7bxmBC7udC0&amp;sid=9edaa5e5&amp;type=grpc&amp;serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&amp;encryption=none#Germany
+ss://Join-VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=@VPNCUSTOMIZE&amp;sni=cdn.kellekcollection.com#France
+ss://Join-VPNCUSTOMIZE@www.speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=TMCUSTOMIZE.xn--79-pv2cvta065cac9302fea377a148g.tech.&amp;type=ws#United States 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#Bahrain
+ss://064363e7-d60e-11ee-aaa8-00505603e70d@st-fr-1.brocdn.com:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;host=st-fr-1.brocdn.com&amp;type=ws&amp;sni=st-fr-1.brocdn.com#United States 
 ss://b3dc04d3-cb39-4c64-80b7-8e76956c5a4c@Mci.shhproxy.site:80?security=none&amp;encryption=none&amp;type=ws&amp;host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&amp;path=/#Telegram+:+@lrnbymaa+|+MCI
 ss://546846e7-a638-439f-9973-48200cf56f54@Join.ShhProxy.Site:80?security=none&amp;encryption=none&amp;type=ws&amp;host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&amp;path=/#Telegram+:+@lrnbymaa+|+All
 ss://665d24e6-6cb8-48d0-ac05-72b8c5bc48dc@chdonald.pydri.ir:30339?type=tcp&amp;headerType=http&amp;host=fast.com&amp;path=/&amp;security=none#lrnbymaa-IRANCELL
@@ -1333,20 +1333,21 @@ ss://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMWI5NWNkZS04Njk1LTQ3ZWItYjQzMS0wMzYyZjAxMzlhZmE=@47.128.76.3:9940#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppNFQ3VDlMcThsQ2ZjbEN5WTRqY29k@65.108.142.67:47146#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cXNvVmtQdlU0T0tKMDFEblgyVmF2@212.113.106.76:61992#
+ss://eyJhZGQiOiAiMTA0LjIxLjE1LjIxMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnbHdlaWRmLnNicyIsICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2x3ZWlkZi5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
+ss://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiNDNiZjVkMGQtZTk0ZC00NzBkLWE5NWItM2E1OWQ1ZjRmNzFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
+ss://telegram-id-ArV2ray@190.93.247.247:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&amp;sni=gs.agh9731.ir#
+ss://b0138d55-a493-4dc3-9932-c6f0391707c1@00-join.outline-vpn.cloud:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed&amp;security=tls&amp;encryption=none&amp;host=edge.020770.xyz&amp;type=ws&amp;sni=edge.020770.xyz#
+ss://eyJhZGQiOiAiMTA0LjIxLjE1LjIxMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnbHdlaWRmLnNicyIsICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2x3ZWlkZi5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#
-ss://23ad11e8-d90e-4a6f-86f8-527d211a6de1@iranserver.com:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed&amp;security=none&amp;encryption=none&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.&amp;type=ws#
-ss://Parsashonam-24@www.speedtest.net:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&amp;type=ws#
-ss://23ad11e8-d90e-4a6f-86f8-527d211a6de1@iranserver.com:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed&amp;security=none&amp;encryption=none&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.&amp;type=ws#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOFZlVk5LYk5lT04yWEw2UEhDeGRX@94.131.3.55:46583#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLMHlsREhqUlYxTk5wZE9Xa2hvNGtP@vpn-b.wwp.im:47146#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVb1ZOUnh2azRmTDN3cUVMbFMrR1VkdzFwYmNWRjl1SFNGdjlvNjRHQ2Z3PQ==@16.16.27.179:2024#
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206d3JiSDNSZ0x0aFovczZ0UXdkd2lTVUw0ZzVxTTArRHhlaUwwVGZoaHZIOD06K2JiWXN0a0ltQVJ1ci9vQ2ZCNEV6ek00eFZiRnZ3MDJEdDRUNGNpWEFwcz0=@16.16.27.179:38101#
-ss://bm9uZTpiY2FhYmNhLWFiY2EtYmFjYS1iZGFjLWJhYWJiY2NhYWNjYg==@127.0.0.1:2080#
-ss://bm9uZTphYWJjYWNiLWFjYmEtYWFjYi1iYWNkLWJjYmFhYWFjYmNiYw==@127.0.0.1:1080#
-ss://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiNmQ2YzY3ZGMtNmIzNy00MzE2LTgwNmMtNzczOTI4Y2Y0OThiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
-ss://cead5a7e-4a1d-4f93-8825-429969dd2fb8@104.16.41.124:2083?security=tls&amp;encryption=none&amp;type=grpc&amp;sni=new.top-speed.shop&amp;fp=chrome&amp;serviceName=go-ogle&amp;alpn=h2,http/1.1#
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
