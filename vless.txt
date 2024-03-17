@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-17-Mar-2024 05:14
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-17-Mar-2024 05:46
 vless://d2359ad8-c61f-473a-8abd-5d827214d5b9@gost.xxxdomain.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 vless://d2359ad8-c61f-473a-8abd-5d827214d5b9@gost.xxxdomain.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 vless://b3dc04d3-cb39-4c64-80b7-8e76956c5a4c@Mci.shhproxy.site:80?security=none&amp;encryption=none&amp;type=ws&amp;host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&amp;path=/#Telegram+:+@lrnbymaa+|+MCI
@@ -895,11 +895,7 @@ vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fc
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@220.80.5.74:12523?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=juzibaipiao.5112233.xyz#
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@131.186.37.49:8443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=juzibaipiao.5112233.xyz#
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@175.212.237.31:12411?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=juzibaipiao.5112233.xyz#
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@210.90.151.247:12341?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=juzibaipiao.5112233.xyz#
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@218.147.178.231:21267?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=juzibaipiao.5112233.xyz#
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@121.131.91.22:33890?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=juzibaipiao.5112233.xyz#
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@146.56.151.87:2087?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=juzibaipiao.5112233.xyz#
+vless://35843f2b-2ff3-438f-8a2c-d75337f7aad5@185.146.173.59:8880?path=/@LIGHTNING6, @LIGHTNING6&amp;security=none&amp;encryption=none&amp;host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&amp;type=ws#
+vless://35843f2b-2ff3-438f-8a2c-d75337f7aad5@185.146.173.59:8880?path=/@LIGHTNING6, @LIGHTNING6&amp;security=none&amp;encryption=none&amp;host=xn---qhantayawi--d-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&amp;type=ws#
+vless://35843f2b-2ff3-438f-8a2c-d75337f7aad5@185.146.173.59:8880?path=/@LIGHTNING6, @LIGHTNING6&amp;security=none&amp;encryption=none&amp;host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&amp;type=ws#
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
