@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-17-Mar-2024 05:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-17-Mar-2024 06:38
 vless://d2359ad8-c61f-473a-8abd-5d827214d5b9@gost.xxxdomain.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 vless://d2359ad8-c61f-473a-8abd-5d827214d5b9@gost.xxxdomain.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 vless://b3dc04d3-cb39-4c64-80b7-8e76956c5a4c@Mci.shhproxy.site:80?security=none&amp;encryption=none&amp;type=ws&amp;host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&amp;path=/#Telegram+:+@lrnbymaa+|+MCI
@@ -895,7 +895,8 @@ vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fc
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
-vless://35843f2b-2ff3-438f-8a2c-d75337f7aad5@185.146.173.59:8880?path=/@LIGHTNING6, @LIGHTNING6&amp;security=none&amp;encryption=none&amp;host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&amp;type=ws#
-vless://35843f2b-2ff3-438f-8a2c-d75337f7aad5@185.146.173.59:8880?path=/@LIGHTNING6, @LIGHTNING6&amp;security=none&amp;encryption=none&amp;host=xn---qhantayawi--d-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&amp;type=ws#
-vless://35843f2b-2ff3-438f-8a2c-d75337f7aad5@185.146.173.59:8880?path=/@LIGHTNING6, @LIGHTNING6&amp;security=none&amp;encryption=none&amp;host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&amp;type=ws#
+vless://23ad11e8-d90e-4a6f-86f8-527d211a6de1@iranserver.com:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed&amp;security=none&amp;encryption=none&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.&amp;type=ws#
+vless://Parsashonam-24@www.speedtest.net:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&amp;type=ws#
+vless://23ad11e8-d90e-4a6f-86f8-527d211a6de1@iranserver.com:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed&amp;security=none&amp;encryption=none&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.&amp;type=ws#
+vless://cead5a7e-4a1d-4f93-8825-429969dd2fb8@104.16.41.124:2083?security=tls&amp;encryption=none&amp;type=grpc&amp;sni=new.top-speed.shop&amp;fp=chrome&amp;serviceName=go-ogle&amp;alpn=h2,http/1.1#
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
