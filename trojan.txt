@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-18-Mar-2024 15:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-18-Mar-2024 16:38
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -7,8 +7,6 @@ trojan://telegram-id-privatevpns@18.192.123.7:22222?mode=gun&amp;security=tls&am
 trojan://telegram-id-privatevpns@3.76.204.41:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AA
 trojan://wkmY1R4EcP@65.20.115.19:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=myket.ir#Channel%20id%3A%20%40Mr_Filtershekan %20
 trojan://wkmY1R4EcP@209.250.246.191:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=z-v2-003294.kailib.com#Channel%20id%3A%20%40Mr_Filtershekan %20
-trojan://telegram-id-privatevpns@51.20.219.225:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
-trojan://telegram-id-privatevpns@16.171.186.153:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@3.69.240.218:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
 trojan://telegram-id-privatevpns@18.196.39.57:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
 trojan://telegram-id-privatevpns@15.236.21.90:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
@@ -26,6 +24,8 @@ trojan://telegram-id-privatevpns@35.181.19.106:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@18.130.80.210:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@35.179.99.56:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
 trojan://telegram-id-privatevpns@54.170.8.190:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
+trojan://telegram-id-privatevpns@52.17.85.93:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
+trojan://telegram-id-privatevpns@51.21.40.32:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://qG9K8AGnn9XH5jUqeFu96g@discord.gg:2083?path=%2F&amp;security=tls&amp;host=cdn13.cdn2cdn.com&amp;type=ws&amp;sni=cdn13.cdn2cdn.com#%40V2ray_NG
 trojan://qG9K8AGnn9XH5jUqeFu96g@162.159.130.234:2083?path=%2F&amp;security=tls&amp;host=cdn13.cdn2cdn.com&amp;type=ws&amp;sni=cdn13.cdn2cdn.com#%40V2ray_NG
 trojan://Keb1y7k9mj@1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd:2053?type=ws&amp;path=%2Ft.me%2FVmessProtocol&amp;host=1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd&amp;security=tls&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;sni=1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd#%40vmessprotocol%20%20%D8%B3%D8%A7%D8%AE%D8%AA%D9%87%20%20%D8%B4%D8%AF%D9%87-c5
