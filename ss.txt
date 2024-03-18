@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-18-Mar-2024 05:45
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-18-Mar-2024 06:39
 ss://d2359ad8-c61f-473a-8abd-5d827214d5b9@gost.xxxdomain.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 ss://44eae493-30e7-42b0-fac3-f1d95014d310@gost.xxxdomain.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 ss://ewogICJ2IjogIjIiLAogICJwcyI6ICJCZWl0ZW4tZzBlem8xanQwIiwKICAiYWRkIjogImEueGRzYXplcm9hbWlycGFuZC50b3AiLAogICJwb3J0IjogMTY2NzgsCiAgImlkIjogIjUxODFiMWIwLTM3OGUtNGFhNi1hOTU4LTU4ZGQ1MjA1M2NkZSIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAidmFyemVzaDMuY29tIgp9
@@ -1375,18 +1375,12 @@ ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&am
 ss://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://0da37c61-354d-4413-bed8-b814b3af68bc@142.132.236.34:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;headerType=none&amp;pbk=PtmbtiyTQ0N0k_tNfqAeU6vSl3IEY-jLN9Z9xe0uNio&amp;security=reality&amp;sid=cd081200abde5546&amp;sni=www.speedtest.net&amp;type=tcp#
+ss://bf4afb55-83d2-4a48-9639-8fbb9f0c667a@194.87.216.59:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=6tItjmU9aBk2fji4-F_QMGOH6_fuQDOMtj--kSeAMgA&amp;security=reality&amp;serviceName=&amp;sid=6fae66&amp;sni=bmi.ir&amp;type=grpc#
 ss://ae5aed77-be23-4f6c-bd51-c73745038952@allrevolt.r8volt.com:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;headerType=none&amp;pbk=Pk--Og6oefYaJlSVLEleq267EVt6NaNRIc0PR-4K9nk&amp;security=reality&amp;sid=77895d125b69cf7c&amp;sni=vu.nl&amp;type=tcp#
-ss://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?encryption=none&amp;flow=&amp;fp=chrome&amp;pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&amp;security=reality&amp;sid=57b65cc1b228c7c1&amp;sni=upmusics.com&amp;type=grpc#
-ss://SVNTEAM@www.speedtest.net:8080?path=%2FSVNTEAM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SVNTEAM-V2ray-FR.xn--fhq0la447aac5504dea701axr1g.Com.&amp;type=ws#
-ss://50799d4e-c1dd-403d-8213-43cf36ee5ac9@discord.gg:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&amp;type=ws#
-ss://50799d4e-c1dd-403d-8213-43cf36ee5ac9@discord.gg:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&amp;type=ws#
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#
-ss://bm9uZTpiYWFhY2NiLWNiYWEtYWFjYi1hYmNkLWFhYWJiY2NiY2FjYg==@127.0.0.1:1080#
-ss://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiN2ViMGI3ZDEtYjczMC00NWJkLWE4ZjEtNTc1OTg4ODk2ZTU4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5c2pWcWNCbVBmVUNicHplalZLamFM@moscow.telegavpn.com:60422#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1F6TXpReg==@94.131.111.32:8388#
-ss://Parsashonam-26@190.93.247.247:443?path=%2F&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=mail.offch.blog&amp;fp=chrome&amp;type=ws&amp;sni=mail.offch.blog#
-ss://Parsashonam-28@www.speedtest.net:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&amp;type=ws#
-ss://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiMWFjOTg5NTItZDU1NS00ZDNhLTg0ZmEtNjY5MTZhYTUxNDk2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSFZGQmxKZ3NtWTk0bnF2Mkk2RGp5@paris.telegavpn.com:9802#
+ss://ae5aed77-be23-4f6c-bd51-c73745038952@185.142.238.222:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;headerType=none&amp;pbk=NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk&amp;security=reality&amp;sid=bfde1c85a6a4112a&amp;sni=maps.google.com&amp;type=tcp#
+ss://ae5aed77-be23-4f6c-bd51-c73745038952@allrevolt.r8volt.com:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;headerType=none&amp;pbk=NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk&amp;security=reality&amp;sid=bfde1c85a6a4112a&amp;sni=maps.google.com&amp;type=tcp#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMNjVMaTBPOEo5OFJXY1JFNnQzUG9F@92.243.27.51:9802#
+ss://bm9uZTphY2FhY2JiLWJjYWEtYWFiYy1kY2FiLWNjYmFiYmFjYmNhYQ==@127.0.0.1:2080#
+ss://bm9uZTpiYWJhYWNjLWJhY2EtY2JhYS1jYWJkLWNhY2FiYWJjYmNhYg==@127.0.0.1:1080#
+ss://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiOTk1OGUzYmUtZDFmMi00MDAyLTg5NGUtYTZkNjdhYmMyMWVlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
