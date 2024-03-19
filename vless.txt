@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-19-Mar-2024 07:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-19-Mar-2024 08:39
 vless://44eae493-30e7-42b0-fac3-f1d95014d310@gost.xxxdomain.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 vless://32ec593b-f62c-4d76-8156-6a2dbf8d4d74@dubai.mihanara.com:897?security=none&amp;encryption=none&amp;host=WwW.UpTvS.CoM.&amp;headerType=http&amp;type=tcp#%D8%AF%D8%A8%DB%8C+2+%F0%9F%87%A6%F0%9F%87%AA
 vless://6d968cf7-a23f-4cf8-cd13-df0ba89bc226@gost.xxxdomain.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
@@ -322,8 +322,6 @@ vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=%2Ffflsws&amp
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=watashi.free.hkpublic.moh539.link&amp;type=ws&amp;sni=watashi.free.hkpublic.moh539.link#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-vless://c9886011-ed65-4376-b10a-234fd849c03c@Join.ShhProxy.Site:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=shhproxy.xn--85-pv2cl2k5x3fipr.org&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://f18f5b4a-3117-401c-8398-bd00c731ba1c@discord.gg:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://c9886011-ed65-4376-b10a-234fd849c03c@Join.ShhProxy.Site:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=shhproxy.xn--85-pv2cl2k5x3fipr.org&amp;type=ws#%F0%9F…
 vless://74743dc9-135a-4288-b146-a3a14aeff41b@Join.ShhProxy.Site:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=shhproxy.xn--85-pv2cl2k5x3fipr.org&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://50799d4e-c1dd-403d-8213-43cf36ee5ac9@discord.gg:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
@@ -989,7 +987,9 @@ vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fc
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
+vless://13106a4a-1317-4d5f-8d6f-dd9e61cba61c@zula.ir:8443?encryption=none&amp;security=tls&amp;sni=fin.mElOV2rAy.store&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=melo&amp;mode=gun#
+vless://13106a4a-1317-4d5f-8d6f-dd9e61cba61c@www.speedtest.net:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=mcii.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&amp;path=%2Fmelov2ray#
 vless://6d968cf7-a23f-4cf8-cd13-df0ba89bc226@gost.xxxdomain.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;serviceName=-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn&amp;type=tcp#
+vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?path=%2F%3Fed%3D2047&amp;security=tls&amp;encryption=none&amp;host=FIltEr-1tg.pagEs.DeV&amp;type=ws&amp;sni=filTer-1tg.pAges.DeV#
 vless://fac951a6-1b26-4d65-b52d-c0848a49a8f3@193.151.150.95:440?type=tcp&amp;path=%2F&amp;serviceName=-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn&amp;headerType=http&amp;security=none#
-vless://31b0d333-5d85-410c-a80b-50b86984f538@discord.gg:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&amp;type=ws#
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
