@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-20-Mar-2024 02:38
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-20-Mar-2024 04:04
 vless://665d24e6-6cb8-48d0-ac05-72b8c5bc48dc@chdonald.pydri.ir:30339?type=tcp&amp;headerType=http&amp;host=fast.com&amp;path=/&amp;security=none#lrnbymaa-IRANCELL
 vless://8d8b36e3-9237-49c6-b09c-e3c9dfc6be4e@ng.nourycazablanka.online:11426?type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=ng.nourycazablanka.online&amp;pbk=xv9dgE3CwwjEFMGfEn3EXyUvH3qfotIeu9v2xxm4sg4&amp;sid=266b4610&amp;spx=/#@lrnbymaa
 vless://8d8b36e3-9237-49c6-b09c-e3c9dfc6be4e@ng.nourycazablanka.online:11426?type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=ng.nourycazablanka.online&amp;pbk=xv9dgE3CwwjEFMGfEn3EXyUvH3qfotIeu9v2xxm4sg4&amp;sid=266b4610&amp;spx=/#@lrnbymaa
@@ -949,20 +949,8 @@ vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fc
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
-vless://24c73c82-0765-451c-b90a-95c408378d24@172.67.130.66:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=azx4.ymann.info&amp;fp=chrome&amp;type=ws&amp;sni=azx4.ymann.info#
-vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.51.208:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=watashi.free.de.mnhacker.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=watashi.free.de.mnhacker.eu.org#
-vless://a6e0a092-7fe6-4ff2-c409-e4d2ed3aa313@45.252.183.153:22367?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#
-vless://e86b91a4-5376-4aa8-89fc-d46c234b9605@198.244.220.187:14701?security=none&amp;encryption=none&amp;host=uplod.ir&amp;headerType=http&amp;type=tcp#
-vless://5daeedfa-e2b1-495f-a386-4d51a3d6779d@198.244.220.187:22579?security=none&amp;encryption=none&amp;host=uplod.ir&amp;headerType=http&amp;type=tcp#
-vless://039264a9-6db9-4421-947b-2ea3506bc829@128.140.105.157:42152?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#
-vless://4d4100e6-2c96-4bf3-9b40-4c6a892bc00d@91.107.185.19:19189?security=none&amp;encryption=none&amp;host=Uplod.ir&amp;headerType=http&amp;type=tcp#
-vless://dafea5e9-ad5e-4b36-966c-88fcf389ddef@24.144.78.114:26852?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-vless://SVNTEAMm@176.31.24.10:80/?type=ws&amp;path=%2FSVNTEAM%3Fed%3D1048&amp;host=SVNTEAM-V2ray-FR.xn--fhq0la447aac5504dea701axr1g.Com&amp;security=none#
-vless://SVNTEAMm@www.speedtest.net:8080/?type=ws&amp;path=%2FSVNTEAM%3Fed%3D2048&amp;host=SVNTEAM-V2ray-FR.xn--fhq0la447aac5504dea701axr1g.Com.&amp;security=none#
-vless://SVNTEAMm@176.31.24.10:80/?type=ws&amp;path=%2FSVNTEAM%3Fed%3D1048&amp;host=SVNTEAM-V2ray-GM.xn--fhq0la447aac5504dea701axr1g.Com&amp;security=none#
-vless://SVNTEAMm@www.speedtest.net:8080/?type=ws&amp;path=%2FSVNTEAM%3Fed%3D2048&amp;host=SVNTEAM-V2ray-GM.xn--fhq0la447aac5504dea701axr1g.Com.&amp;security=none#
-vless://SVNTEAMm@176.31.24.10:80/?type=ws&amp;path=%2FSVNTEAM%3Fed%3D1048&amp;host=SVNTEAM-V2ray-NL.xn--fhq0la447aac5504dea701axr1g.Com&amp;security=none#
-vless://SVNTEAMm@www.speedtest.net:8080/?type=ws&amp;path=%2FSVNTEAM%3Fed%3D2048&amp;host=SVNTEAM-V2ray-NL.xn--fhq0la447aac5504dea701axr1g.Com.&amp;security=none#
-vless://SVNTEAMm@176.31.24.10:80/?type=ws&amp;path=%2FSVNTEAM%3Fed%3D1048&amp;host=SVNTEAM-V2ray-PO.xn--fhq0la447aac5504dea701axr1g.Com&amp;security=none#
-vless://SVNTEAMm@www.speedtest.net:8080/?type=ws&amp;path=%2FSVNTEAM%3Fed%3D2048&amp;host=SVNTEAM-V2ray-PO.xn--fhq0la447aac5504dea701axr1g.Com.&amp;security=none#
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.28.62:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=edgu.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=edgu.pureboy.eu.org#
+vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@172.64.229.31:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=dns68.shift.cloudns.org&amp;type=ws&amp;sni=dns68.shift.cloudns.org#
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=test38.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=test38.pages.dev#
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=edge.020770.xyz&amp;fp=chrome&amp;type=ws&amp;sni=edge.020770.xyz#
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
