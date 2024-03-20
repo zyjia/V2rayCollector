@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-20-Mar-2024 10:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-20-Mar-2024 11:40
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -6,6 +6,8 @@ trojan://rpMVmvNuUp@sr-2.sourcekade.pw:45967?security=tls&amp;headerType=none&am
 trojan://telegram-id-privatevpns@18.192.123.7:22222?mode=gun&amp;security=tls&amp;alpn=h2&amp;type=grpc&amp;serviceName=bkibtrojangrpc&amp;sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AA
 trojan://telegram-id-privatevpns@3.76.204.41:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AA
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?path=6b777a91&amp;security=tls&amp;host=sherasheba.com&amp;type=ws&amp;sni=sherasheba.com#Channel%20id%3A%20%40Mr_Filtershekan %20
+trojan://7sqgQiwNvq@104.21.48.84:8443?path=%2F%40MikasaVPN%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;host=mega.megafair.store&amp;fp=firefox&amp;type=ws&amp;sni=mega.megafair.store#United States 
+trojan://7sqgQiwNvq@[2a0c:b641:6f1:85::2]:8443?path=%2F%40MikasaVPN%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;host=mega.megafair.store&amp;fp=firefox&amp;type=ws&amp;sni=mega.megafair.store#Telegram
 trojan://7sqgQiwNvq@104.21.48.84:8443?path=%2F%40MikasaVPN%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;host=mega.megafair.store&amp;fp=firefox&amp;type=ws&amp;sni=mega.megafair.store#United States 
 trojan://7sqgQiwNvq@[2a0c:b641:6f1:85::2]:8443?path=%2F%40MikasaVPN%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;host=mega.megafair.store&amp;fp=firefox&amp;type=ws&amp;sni=mega.megafair.store#Telegram
 trojan://telegram-id-privatevpns@15.188.242.223:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
