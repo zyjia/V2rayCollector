@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-22-Mar-2024 23:39
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-23-Mar-2024 00:38
 ss://7800ef3f-2cb4-4f45-f893-5ba33bd38cb5@gost.xxxdomain.shop:2052?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 ss://ewogICJ2IjogIjIiLAogICJwcyI6ICJAYmVpdGVuLTRmcWdvOTRjcyIsCiAgImFkZCI6ICI5MS4xMDcuMTM4LjE3MCIsCiAgInBvcnQiOiA1NDQxMSwKICAiaWQiOiAiODdlOWQ2MjctNjRjYy00ZDhjLWI1ZGUtZjkyZDM5YTM5OGZkIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAiaHR0cCIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ2YXJ6ZXMzLmNvbSIKfQ==
 ss://665d24e6-6cb8-48d0-ac05-72b8c5bc48dc@chdonald.pydri.ir:30339?type=tcp&amp;headerType=http&amp;host=fast.com&amp;path=/&amp;security=none#lrnbymaa-IRANCELL
@@ -1294,6 +1294,7 @@ ss://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.51.208:443?security=tls&amp;enc
 ss://3af3a0f3-28ea-407c-a3df-2ae3b33fc174@50.7.85.221:443?security=tls&amp;encryption=none&amp;host=salampesarm.sesewov745.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=salampesarm.sesewov745.workers.dev#%F0%9F%87%B3%F0%9F%87%B1+%40FreakConfig
 ss://36a8a97b-9380-4cfb-9248-4f71a09f454c@104.16.60.8:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=ag.YaKariim.com#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
 ss://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.51.208:443?security=tls&amp;encryption=none&amp;host=watashi.free.de.mnhacker.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=watashi.free.de.mnhacker.eu.org#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40v2rayngvpn
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40v2rayngvpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSVM0NHVzZjJUZzI3a3lnVTdjNVRsTnVSaWdOcmJuVENtMHVvSVRsVDBzPQ==@18.199.145.153:2087#%40v2rayngvpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGZ2x0YnBtNmNEOWVIU0ZoS0k2bWFD@45.89.52.197:32058#%40v2rayngvpn
@@ -1328,9 +1329,23 @@ ss://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
-ss://----DIGiV2RAY----@discord.gg:80?path=%2FDigiv2ray-&amp;security=none&amp;encryption=none&amp;host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&amp;type=ws#
 ss://----DIGiV2RAY----@185.146.173.59:80?path=%2FDigiv2ray-&amp;security=none&amp;encryption=none&amp;host=digi--v2raycncfs.RadioTeHran.oRG.&amp;type=ws#
-ss://5d0245cd-8412-4a32-b52c-ef810651e608@190.93.247.155:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&amp;sni=digi--v2raycncfs.RadioTeHran.oRG#
 ss://----DIGiV2RAY----@discord.gg:80?path=%2FDigiv2ray-&amp;security=none&amp;encryption=none&amp;host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&amp;type=ws#
-ss://20dec600-1cea-427d-8ca6-aec8ab3e29be@172.67.211.198:443?path=%2FMlp3Z5gPEhjg_eRL%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=CarxstReEt.KawasAEDi0.worKERS.dev&amp;fp=randomized&amp;type=ws&amp;sni=CArXstREet.KawaSAeDI0.wORKeRS.deV#
+ss://ffe3f081-f576-4c26-879a-6a945fa20358@193.151.150.95:440?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#
+ss://ffe3f081-f576-4c26-879a-6a945fa20358@193.151.150.95:440?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWG9HV3lqd0RWWklsMVdNdUh0eFNp@139.28.220.18:5700#
+ss://5d0245cd-8412-4a32-b52c-ef810651e608@190.93.247.155:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40Digiv2ray,%40Digiv2ray,%40Digiv2ray,%40Digiv2ray,&amp;sni=digi--v2raycncfs.RadioTeHran.oRG#
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@213.183.63.69:9025#
+ss://eyJhZGQiOiAiNTA2Lm91dGxpbmUtdnBuLmNsb3VkIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm1hcmllbi5tb3RvcmN5Y2xlcyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm1hcmllbi5tb3RvcmN5Y2xlcyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQEZPUldBUkRWMlJBWSJ9
+ss://36a8a97b-9380-4cfb-9248-4f71a09f454c@wwwwww.outline-vpn.cloud:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=ag.YaKariim.com#
+ss://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=w2.sylarsun.eu.org&amp;type=ws&amp;sni=w2.sylarsun.eu.org#
+ss://SVNTEAM@Owner.XHEYKH.Site:80/?type=ws&amp;path=%2F&amp;host=SvnTeamGM.xn--fhq0la447aac5504dea701axr1g.com&amp;security=none#
+ss://SVNTEAM@Owner.XHEYKH.Site:80/?type=ws&amp;path=%2F&amp;host=SvnTeamNT.xn--fhq0la447aac5504dea701axr1g.com&amp;security=none#
+ss://SVNTEAM@Owner.XHEYKH.Site:80/?type=ws&amp;path=%2F&amp;host=SvnTeamIT.xn--fhq0la447aac5504dea701axr1g.com&amp;security=none#
+ss://SVNTEAM@Owner.XHEYKH.Site:80/?type=ws&amp;path=%2F&amp;host=SvnTeamPO.xn--fhq0la447aac5504dea701axr1g.com&amp;security=none#
+ss://SVNTEAM@discord.gg:8080/?type=ws&amp;path=%2F&amp;host=SvnTeamGM.xn--fhq0la447aac5504dea701axr1g.com.&amp;security=none#
+ss://SVNTEAM@discord.gg:8080/?type=ws&amp;path=%2F&amp;host=SvnTeamNT.xn--fhq0la447aac5504dea701axr1g.com.&amp;security=none#
+ss://SVNTEAM@discord.gg:8080/?type=ws&amp;path=%2F&amp;host=SvnTeamIT.xn--fhq0la447aac5504dea701axr1g.com.&amp;security=none#
+ss://SVNTEAM@discord.gg:8080/?type=ws&amp;path=%2F&amp;host=SvnTeamPO.xn--fhq0la447aac5504dea701axr1g.com.&amp;security=none#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
