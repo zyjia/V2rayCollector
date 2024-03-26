@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-26-Mar-2024 02:38
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-26-Mar-2024 04:04
 vless://8d8b36e3-9237-49c6-b09c-e3c9dfc6be4e@ng.nourycazablanka.online:11426?type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=ng.nourycazablanka.online&amp;pbk=xv9dgE3CwwjEFMGfEn3EXyUvH3qfotIeu9v2xxm4sg4&amp;sid=266b4610&amp;spx=/#@lrnbymaa
 vless://8d8b36e3-9237-49c6-b09c-e3c9dfc6be4e@ng.nourycazablanka.online:11426?type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=ng.nourycazablanka.online&amp;pbk=xv9dgE3CwwjEFMGfEn3EXyUvH3qfotIeu9v2xxm4sg4&amp;sid=266b4610&amp;spx=/#@lrnbymaa
 vless://02e75d78-58ad-4a73-afca-24b781d8fdf3@69.84.182.65:8443?type=grpc&amp;mode=gun&amp;security=tls&amp;sni=Isa.kasler.sbs&amp;alpn=h2,http/1.1#@lrnbymaa
@@ -34,10 +34,6 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?pa
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn-----join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#Irancell+155+join%40Outline_Vpn
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@iranserver.com:2096?path=%2FbShq2qgG8GnX8zqm%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=vpnct.arvancode.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=vpnct.arvancode.eu.org#Irancell+156+join%40Outline_Vpn
 vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=frankfurt.heydasip.com&amp;type=ws#Irancell+157+join%40Outline_Vpn
-vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99…
-vless://--MsV2ray---MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&amp;type=ws#MsV2ray+%7C+Mci
-vless://7deda987-6e9a-4264-a473-9d16c0e2a0fe@www.MsV2ray.sbs:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&amp;sni=www.MsV2ray.sbs#MsV2ray+%7C+MTN+WIFI
-vless://--MsV2ray---MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%9…
 vless://--MsV2ray---MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%9…
 vless://--MsV2ray---MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%9…
 vless://--MsV2ray---MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&amp;type=ws#MsV2ray+%7C+Mci
@@ -888,7 +884,12 @@ vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fc
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
-vless://4154a9a5-2309-42ac-9262-a98846fc361b@www.visa.com:443/?type=grpc&amp;encryption=none&amp;serviceName=%E2%80%8C%20%40VPNCUSTOMIZE%20%E2%80%8C&amp;security=tls&amp;sni=tmcustomize-tmcustomize.V2ray.motorcycLes&amp;alpn=h2%2Chttp%2F1.1#
-vless://27b08a01-7056-473d-8917-0db091da8a89@46.102.136.69:57803?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://aec1f59b-dfd6-448e-a3aa-9f71782c1b70@speed.infinitetdm.com:443?type=ws&amp;path=%2F&amp;security=tls&amp;fp=&amp;alpn=&amp;allowInsecure=1&amp;sni=speed.infinitetdm.com#
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.237.122:80?security=&amp;fp=chrome&amp;type=ws&amp;path=/&amp;host=us1.rtacg.com&amp;encryption=none#
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.66.44.7:80?security=&amp;fp=chrome&amp;type=ws&amp;path=/&amp;host=us1.rtacg.com&amp;encryption=none#
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.30.201:80?security=&amp;fp=chrome&amp;type=ws&amp;path=/&amp;host=us1.rtacg.com&amp;encryption=none#
+vless://SVNTEAM@185.146.173.59:80?type=ws&amp;host=SvnTeamV2rayGm.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.Com.&amp;path=/SvnTeam-TeleGram-ChaNneL?ed%3D2048&amp;security=none#
+vless://SVNTEAM@185.146.173.59:80?type=ws&amp;host=SvnTeamV2rayFn.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.Com.&amp;path=/SvnTeam-TeleGram-ChaNneL?ed%3D2048&amp;security=none#
+vless://SVNTEAM@185.146.173.59:80?type=ws&amp;host=SvnV2raySu.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.Com.&amp;path=/SvnTeam-TeleGram-ChaNnel?ed%3D2048&amp;security=none#
+vless://SVNTEAM@185.146.173.59:80?type=ws&amp;host=SvnV2rayCn.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.Com.&amp;path=/SvnTeam-TeleGram-ChaNnel?ed%3D2048&amp;security=none#
+vless://SVNTEAM@185.146.173.59:80?type=ws&amp;host=SvnV2rayEg.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.Com.&amp;path=/SvnTeam-TeleGram-ChaNnel?ed%3D2048&amp;security=none#
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
