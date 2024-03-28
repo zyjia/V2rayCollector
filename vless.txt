@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-28-Mar-2024 05:48
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-28-Mar-2024 06:38
 vless://02e75d78-58ad-4a73-afca-24b781d8fdf3@69.84.182.65:8443?type=grpc&amp;mode=gun&amp;security=tls&amp;sni=Isa.kasler.sbs&amp;alpn=h2,http/1.1#@lrnbymaa
 vless://cef0386d-84a0-4db6-8c28-3c93dfac94c4@78.47.241.161:17391?type=tcp&amp;headerType=http&amp;host=speed.cloudflare.com&amp;path=/&amp;security=none#@lrnbymaa
 vless://cef0386d-84a0-4db6-8c28-3c93dfac94c4@78.47.241.161:17391?type=tcp&amp;headerType=http&amp;host=speed.cloudflare.com&amp;path=/&amp;security=none#@lrnbymaa-mtn
@@ -384,11 +384,9 @@ vless://9bb74f9c-6385-4e90-9d16-aadf009575f8@104.16.60.8:2053?path=Path%2FTelegr
 vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.46.233:2096?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=ed9485634jkfhggh.pages.dev&amp;type=ws&amp;sni=ed9485634jkfhggh.pages.dev#%40V2rayNG3
 vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=FIltEr-1tg.pagEs.DeV&amp;type=ws&amp;sni=filTer-1tg.pAges.DeV#%40V2rayNG3
 vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?path=%2F%3Fed%3D2047&amp;security=tls&amp;encryption=none&amp;host=FIltEr-1tg.pagEs.DeV&amp;type=ws&amp;sni=filTer-1tg.pAges.DeV#%40V2rayNG3
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@freee.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=w1.sylar8.eu.org&amp;type=ws&amp;sni=w1.sylar8.eu.org#%40V2rayNG3
-vless://0f58c64c-6ef9-4e2c-adfb-543fa291c2f0@discord.gg:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=shhproxy.xn--85-pv2cl2k5x3fipr.org.&amp;type=ws#%40V2rayNG3
-vless://6d3f0987-1e38-4d54-9f4f-57d75aad874a@www.speedtest.net:8080?path=%2Fmelov2ray&amp;security=none&amp;encryption=none&amp;host=mcii.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&amp;type=ws#%40V2rayNG3
-vless://34daa0a0-c4ba-417e-bb0f-553e6640565b@Vpn-MikeyMci.myftp.org:80?path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&amp;security=none&amp;encryption=none&amp;host=Vpn-Mikey.%E6%AC%A2%E8%BF%8E%E8%AE%BF%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E4%B8%AD.website.&amp;type=ws#%40V2rayNG3
+vless://652ea903-8902-4329-89bd-2d29930e2d9d@discord.gg:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=shhproxy.xn--85-pv2cl2k5x3fipr.org.&amp;type=ws#%40V2rayNG3
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@visa.com:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=Hagh.PaGes.DEv&amp;type=ws&amp;sni=Hagh.PaGes.DEv#%40V2rayNG3
+vless://225d8704-9e2a-47ac-893d-33cd46ed609a@104.26.14.85:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=join-sho-falcunargo-uk.falcunar.uk.eu.org&amp;type=ws&amp;sni=join-sho-falcunargo-uk.falcunar.uk.eu.org#%40V2rayNG3
 vless://225d8704-9e2a-47ac-893d-33cd46ed609a@104.26.14.85:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=join-sho-falcunargo-uk.falcunar.uk.eu.org&amp;type=ws&amp;sni=join-sho-falcunargo-uk.falcunar.uk.eu.org#%40V2rayNG3
 vless://9bb74f9c-6385-4e90-9d16-aadf009575f8@104.16.60.8:2053?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=akfjw807r23raskodfjsf.pages.dev&amp;type=ws&amp;sni=akfjw807r23raskodfjsf.pages.dev#%40V2rayNG3
 vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.46.233:2096?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=ed9485634jkfhggh.pages.dev&amp;type=ws&amp;sni=ed9485634jkfhggh.pages.dev#%40V2rayNG3
@@ -981,5 +979,5 @@ vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fc
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
-vless://-DIGiV2RAY--@185.146.173.59:80?path=%2FDigiv2ray-&amp;security=none&amp;encryption=none&amp;host=digi--v2raycncfs.RadioTeHran.oRG.&amp;type=ws#
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=biA.ALlhub.LTD&amp;fp=random&amp;type=ws&amp;sni=Bia.alLhub.Ltd#
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
