@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-29-Mar-2024 05:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-29-Mar-2024 06:39
 ss://25424a91-4a0d-4334-938e-df5f6cf0fdfd@gost.xxxdomain.shop:2052?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 ss://eyJob3N0IjoidmFyemVzaDMuY29tIiwicHMiOiJCZWl0ZW4tZnc3YXUzdTUyIiwiaWQiOiJjNTA5MmUyNS03MWQ5LTRjOTAtOTY4Yy02OGMzZmM3OTU5MjIiLCJwb3J0IjoiNTgxMjAiLCJzY3kiOiIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJhZGQiOiI4OS40NC4xMTIuNjEiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAifQ==
 ss://eyJwYXRoIjoiXC8iLCJ0bHMiOiJub25lIiwic2N5IjoiIiwicG9ydCI6IjU4MTIwIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoidmFyemVzaDMuY29tIiwicHMiOiJCZWl0ZW4tc3o1NHBodXd3IiwiYWRkIjoiODkuNDQuMTEyLjYxIiwiaWQiOiI3NGEzZWJiYy1mODAyLTQyZmItYWEwYi01YWI5YzM1MmE5N2IifQ==
@@ -1400,16 +1400,18 @@ ss://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYN2VvRUJyQVJXc0JVaVZmY2hWRWRI@185.77.217.121:443#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaeUhIN1drSVJiYmlqQzg3TEtkU05V@51.141.231.135:33529/?outline=1#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UjdadTd6Y3BPVVBRVHVVYld4eGFR@kz.telegavpn.com:35152#
-ss://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiNTBjY2U0YjAtNTlkMy00Y2U4LThjODktN2NlZTkyMTQzZDRlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll2.fast2rayy.eu.org:443#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll2.fast2rayy.eu.org:443#
+ss://eyJhZGQiOiAiY2gyLXZtZXNzLnNzaG1heC54eXoiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiY2gyLXZtZXNzLnNzaG1heC54eXoiLCAiaWQiOiAiOWJlM2JmNmQtNjQ3Yi00YzVmLWJlYjYtOTdiYzAwZjRlNTU3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogIjgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
 ss://eyJhZGQiOiAiMTA0LjIxLjE1LjIxMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnbHdlaWRmLnNicyIsICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2x3ZWlkZi5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOcm9HelNkZERzMUFhVnYwK0dZMTRHcGt5S3YzcHVzZ2RTTXlHT3NQMXZJPQ==@3.70.23.209:2087#
-ss://c691e063-f112-414c-c818-b16847a85cea@152.42.196.217:43968?path=%2FFREE++-+by+Tharuwa+++%28+t.me%2Fz_z_z_zz_z+%29&amp;security=none&amp;encryption=none&amp;type=ws#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cVN0N3lyOUJBMXA4OTFOZTI4Wm9q@paris.telegavpn.com:9802#
-ss://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiYzEzN2M5OGMtMjg5Ny00NzBlLWJiYzMtOTczNmIxN2VjYjUwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Y2FTTG0wVU9FRmlid3dYZG9BWVVR@62.133.61.35:61227#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll2.fast2rayy.eu.org:443#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll2.fast2rayy.eu.org:443#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaeUhIN1drSVJiYmlqQzg3TEtkU05V@51.141.231.135:33529/?outline=1#
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5000#
+ss://SVNTEAMz@discord.gg:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=SvnTeamPO.xn--fhq0la447aac5504dea701axr1g.com.&amp;type=ws#
+ss://3e43d714-23e1-47b6-d820-bdb50610362e@snapp.ir:443?path=%2Fapi%3Fed%3D1024&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=arv1.ryhoon.com&amp;fp=chrome&amp;type=ws&amp;sni=arv1.ryhoon.com#
+ss://7d82c1c2-b153-427b-8cb3-18faa15d1ed4@web.bbv2ry.pics:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=Sky2.bbv2ry.pics&amp;fp=chrome&amp;type=ws&amp;sni=Sky2.bbv2ry.pics#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@45.139.24.63:57456#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdDc0bjdLYXBQdDRoM3F6eTdYdnhp@51.145.19.84:9870/?outline=1#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxbGxEVkxvbXdhTTEwVFNldVlKN3Jy@vienna.telegavpn.com:61992#
+ss://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiOWRkNzBjNjktMGNkZi00NTdlLThkNWMtYzk0N2M1ZDc5ZmY2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
+ss://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.135.79:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=edge.020770.xyz&amp;type=ws&amp;sni=edge.020770.xyz#
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
