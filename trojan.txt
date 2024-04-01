@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-01-Apr-2024 13:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-01-Apr-2024 18:40
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -10,20 +10,7 @@ trojan://1ZTbMoSRnm@185.146.173.59:2083?mode=multi&amp;security=tls&amp;alpn=h3,
 trojan://1ZTbMoSRnm@188.42.89.174:2083?mode=multi&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;fp=firefox&amp;type=grpc&amp;serviceName=/Telegram:@MikasaVPN&amp;sni=mIkAsa.mEgAfAiR.sToRe#DailyV2ray
 trojan://1ZTbMoSRnm@[2a04:52c0:122:f8a7::1]:2083?mode=multi&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;fp=firefox&amp;type=grpc&amp;serviceName=/Telegram:@MikasaVPN&amp;sni=mIkAsa.mEgAfAiR.sToRe#DailyV2ray
 trojan://1ZTbMoSRnm@104.17.239.159:2083?mode=multi&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;fp=firefox&amp;type=grpc&amp;serviceName=/Telegram:@MikasaVPN&amp;sni=mIkAsa.mEgAfAiR.sToRe#DailyV2ray
-trojan://1ZTbMoSRnm@185.146.173.59:2083?mode=multi&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;fp=firefox&amp;type=grpc&amp;serviceName=/Telegram:@MikasaVPN&amp;sni=mIkAsa.mEgAfAiR.sToRe#DailyV2ray
-trojan://1ZTbMoSRnm@188.42.89.174:2083?mode=multi&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;fp=firefox&amp;type=grpc&amp;serviceName=/Telegram:@MikasaVPN&amp;sni=mIkAsa.mEgAfAiR.sToRe#DailyV2ray
-trojan://1ZTbMoSRnm@[2a04:52c0:122:f8a7::1]:2083?mode=multi&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;fp=firefox&amp;type=grpc&amp;serviceName=/Telegram:@MikasaVPN&amp;sni=mIkAsa.mEgAfAiR.sToRe#DailyV2ray
-trojan://1ZTbMoSRnm@104.17.239.159:2083?mode=multi&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;fp=firefox&amp;type=grpc&amp;serviceName=/Telegram:@MikasaVPN&amp;sni=mIkAsa.mEgAfAiR.sToRe#DailyV2ray
 trojan://lYcsSFMYBo@79.175.134.169:7676?type=ws&amp;path=%2F&amp;security=none#kkpj179m
-trojan://telegram-id-privatevpns@13.36.79.202:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
-trojan://telegram-id-privatevpns@18.133.56.223:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
-trojan://telegram-id-privatevpns@18.169.39.51:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
-trojan://telegram-id-privatevpns@52.210.205.174:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
-trojan://telegram-id-privatevpns@34.247.97.241:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
-trojan://telegram-id-privatevpns@13.53.161.174:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
-trojan://telegram-id-privatevpns@13.51.126.22:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
-trojan://telegram-id-privatevpns@3.64.167.182:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
-trojan://telegram-id-privatevpns@3.78.57.115:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
 trojan://telegram-id-privatevpns@52.47.134.116:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
 trojan://telegram-id-privatevpns@35.181.187.255:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
 trojan://telegram-id-privatevpns@35.177.168.209:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
@@ -35,6 +22,15 @@ trojan://telegram-id-privatevpns@51.21.50.151:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@3.67.27.94:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@3.127.172.113:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@15.237.154.170:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
+trojan://telegram-id-privatevpns@15.237.157.254:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
+trojan://telegram-id-privatevpns@18.134.81.206:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
+trojan://telegram-id-privatevpns@13.43.179.63:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
+trojan://telegram-id-privatevpns@52.214.200.114:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
+trojan://telegram-id-privatevpns@108.128.23.238:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
+trojan://telegram-id-privatevpns@13.51.19.91:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
+trojan://telegram-id-privatevpns@16.16.7.74:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
+trojan://telegram-id-privatevpns@3.126.54.117:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
+trojan://telegram-id-privatevpns@18.194.197.54:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
 trojan://user@s1.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s1.mynameismahsa.info#FI-S1-Sweden-Trojan
 trojan://user@s2.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s2.mynameismahsa.info#FI-S2-Germany-Trojan
 trojan://user@s3.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s3.mynameismahsa.info#FI-S3-India-Trojan
