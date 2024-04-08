@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-08-Apr-2024 18:39
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-08-Apr-2024 23:41
 hy2://8c80cb0d-5ec1-48b5-bd6a-7bdc4d2e1d0a@hy2jp01.xqc.best:30002/?sni=hy2jp01.xqc.best#Hy2%20%40v2rayNG_VPN
 hy2://AQgZnO0x97F7@45.131.108.215:1443/?insecure=1#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG
 hy2://dongtaiwang.com@51.159.77.153:33390/?insecure=1&amp;sni=bing.com#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG
