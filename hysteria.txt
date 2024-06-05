@@ -1,3 +1,3 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-05-Jun-2024 08:40
-hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&amp;sni=ELiV2ray.Elena.expert&amp;obfs=salamander&amp;obfs-password=2c5ef5135559d4f5#%40Network_442_%20NUTERLAND%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-05-Jun-2024 13:40
+
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
