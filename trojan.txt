@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-07-Jun-2024 08:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-07-Jun-2024 13:40
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -14,9 +14,6 @@ trojan://telegram-id-privatevpns@3.70.146.72:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-directvpn@15.236.89.117:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-privatevpns@13.50.94.77:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-privatevpns@13.39.230.43:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-privatevpns@3.127.204.106:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-trojan://telegram-id-privatevpns@13.38.165.66:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
-trojan://telegram-id-privatevpns@52.47.34.81:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@18.130.102.87:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@18.168.77.221:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
 trojan://telegram-id-privatevpns@99.81.164.232:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
@@ -31,6 +28,11 @@ trojan://telegram-id-privatevpns@18.168.68.161:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@18.130.120.158:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
 trojan://telegram-id-privatevpns@34.252.98.116:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
 trojan://telegram-id-privatevpns@54.155.216.107:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
+trojan://telegram-id-privatevpns@13.53.247.108:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@16.170.34.137:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@3.127.173.9:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@35.159.154.232:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@13.37.192.118:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?path=%2F6b777a91&amp;security=tls&amp;host=jobscareerforstudent.com&amp;type=ws&amp;sni=jobscareerforstudent.com#%40V2rayNG3
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?mode=gun&amp;security=tls&amp;type=grpc&amp;serviceName=443trojan&amp;sni=cdn-21.gsmxreality.com#%40V2rayNG3
 trojan://wkmY1R4EcP@45.76.130.173:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=z-v2-003289.kailib.com#%40V2rayNG3
@@ -75,6 +77,7 @@ trojan://huge123456@131.186.21.135:60954?security=tls&amp;headerType=none&amp;ty
 trojan://wkmY1R4EcP@us-vul.yangon.club:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=z-v2-002797.kailib.com#United+States+Vultr
 trojan://e0557db1-585e-4469-aaab-3e9061fc53ac@ca-full.privateip.net:443?security=tls&amp;headerType=none&amp;type=tcp#Canada+Stark
 trojan://TaE3D3Yc9R2eCzl4OuCpgyCFy4OuCpgyCFy3SlRNY88SKanIejx37OAFZaXDx0anIejx3@tw-cf1.yangon.club:28332?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=sohtsa.taiwanesefood.link#Taiwan+Cloudflare
+trojan://TXNa4Cp0lnC2yyYOD9x8DC5EcOD9x8DC5EcKlaeSZauFBSe33AD3IOAxqY8RZRSe33AD3@gharial.superpokemon.com:28334?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=gharial.superpokemon.com#Japan+PSI
 trojan://f1f8e5be-94a4-4c30-8c88-5cf72e09b800@ltt1.sshocean.net:443?sni=www.digitalocean.com#t.me%2Fkutoproxy%F0%9F%87%B1%F0%9F%87%B9
 trojan://788ab87c-224d-4e85-8575-470567934d47@idt1.sshocean.net:443?sni=www.digitalocean.com#t.me%2Fkutoproxy%F0%9F%87%AE%F0%9F%87%A9
 trojan://788ab87c-224d-4e85-8575-470567934d47@idt1.sshocean.net:443?sni=www.digitalocean.com#t.me%2Fkutoproxy%F0%9F%87%AE%F0%9F%87%A9
@@ -111,4 +114,5 @@ trojan://telegram-id-privatevpns@13.38.239.87:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@54.155.216.107:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%AEConfigV2RayNG
 trojan://telegram-id-directvpn@3.98.205.243:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#ConfigV2RayNG
 trojan://telegram-id-directvpn@18.221.16.138:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#ConfigV2RayNG
+trojan://telegram-id-directvpn@35.181.13.132:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#ConfigV2RayNG
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
