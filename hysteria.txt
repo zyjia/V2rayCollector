@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-12-Jun-2024 13:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-12-Jun-2024 18:39
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052/?insecure=1&amp;sni=fr1.eyujichang.xyz#H1
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@130.61.24.219:2052/?insecure=1&amp;sni=de1.eyujichang.xyz#H2
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@132.145.199.4:2052/?insecure=1&amp;sni=us1.eyujichang.xyz#H3
