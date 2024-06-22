@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-22-Jun-2024 08:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-22-Jun-2024 13:40
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@46.30.45.211:4380/?sni=vmln53bkj6.bayworld.net&amp;obfs=salamander&amp;obfs-password=irvless#%40Network_442_%20MCI%20hysteria%20
 hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&amp;sni=https%3A%2F%2Fbing.com%2F#%40Network_442_%F0%9F%87%BA%F0%9F%87%B2%20MCI_%20hysteria%20
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=8c3ce17b#%40Network_442_%20%F0%9F%87%BA%F0%9F%87%B2_MCI%20hysteria%288%29%20
