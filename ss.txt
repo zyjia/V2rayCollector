@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-07-Jul-2024 23:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-08-Jul-2024 04:16
 ss://Bia_to_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;type=ws#All @lrnbymaa
 ss://Bia_to_VPNCUSTOMIZE@zula.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;type=ws#All@lrnbymaa
 ss://Bia_to_VPNCUSTOMIZE@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;type=ws#MKH lrnbymaa
@@ -380,12 +380,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRXRSaFlQX25vbGlRYjRXdFZ4S1p3@185.103.255.178:443#%40Freakconfig
-ss://-Created--ELiV2RAY-@185.146.173.22:80?type=ws&amp;path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&amp;host=ELi.V2ray.motorcycles&amp;security=none#
-ss://--Created--ELiV2RAY--@185.146.173.22:80?type=ws&amp;path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&amp;host=ELi.V2ray.motorcycles&amp;security=none#
-ss://--ELiV2ray-ELiV2ray--@Tg.EliV2ray.io:80?type=ws&amp;path=/@ELiV2ray--@ELiV2ray--@ELiV2ray--tg-eliv2ray.io%3Fed%3D80&amp;host=f1.mhdihpr.ir.&amp;security=none#
 ss://bd3d7f7c-2b4b-4003-8c7f-a34abd72a82b@TG.ELiV2RAY.iO:8080?path=%2F%54eleg%72am%3A%40Unl%69mit%65dDev-%54eleg%72am%3A%40Unl%69mit%65dDev&amp;security=none&amp;encryption=none=path=/Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY&amp;host=unl%69mit%65ddev-vpn.unl%69mit%65ddev.Community.&amp;type=ws#
 ss://c7a0b0ff-f092-48f6-8c3b-7554b84d907f@2.189.59.2:443?mode=gun&amp;security=tls&amp;encryption=none&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=/Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY&amp;serviceName=Channel%3A%40Unl%69mit%65dDev&amp;sni=mci.unl%69mit%65ddev-vpn.Com.#
 ss://bd3d7f7c-2b4b-4003-8c7f-a34abd72a82b@TG.ELiV2RAY.iO:8080?path=%2F%54eleg%72am%3A%40Unl%69mit%65dDev-%54eleg%72am%3A%40Unl%69mit%65…
+ss://adef69de-dc26-467f-8b12-1b83873f016e@iranserver.com:8080?path=%2F%54eleg%72am%3A%40Unl%69mit%65dDev-%54eleg%72am%3A%40Unl%69mit%65dDev&amp;security=none&amp;encryption=none=path=/Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY&amp;host=unl%69mit%65ddev-vpn.unl%69mit%65ddev.Community.&amp;type=ws#
+ss://e3449f5c-0d8f-444b-a405-fcc834573b1e@2.189.59.2:443?mode=gun&amp;security=tls&amp;encryption=none&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=/Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY&amp;serviceName=Channel%3A%40Unl%69mit%65dDev&amp;sni=mci.unl%69mit%65ddev-vpn.Com.#
+ss://adef69de-dc26-467f-8b12-1b83873f016e@iranserver.com:8080?path=%2F%54eleg%72am%3A%40Unl%69mit%65dDev-%54eleg%72am%3A%40Unl%69mit%65dDev&amp;secu…
 ss://583110fe-7dce-47a4-b44d-05dc1e44f552@185.146.173.58:8080?path=%2Fservernet&amp;security=none&amp;encryption=none&amp;host=dcc6.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+2
 ss://7812f7fe-78e5-40d4-beb7-b8809e3b8f67@185.146.173.58:2095?path=%2Fservernet&amp;security=none&amp;encryption=none&amp;host=dcc5.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+1
 ss://2b3b4920-e712-4613-b0df-75a80b403f49@185.146.173.58:8080?path=%2Fservernet&amp;security=none&amp;encryption=none&amp;host=dcc4.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+3
@@ -1204,9 +1204,6 @@ ss://53557097-a91c-497e-8183-e8491f76bc39@www.speedtest.net:8443?mode=gun&amp;se
 ss://f8b1f288-800c-40d3-80dd-d246c3478f8c@Vpnmasi.savagev2ray.site:2053?type=ws&amp;path=%2FTelegram+-+@Vpnmasi+-+Telegram+-+@Vpnmasi&amp;host=all5.savagev2ray.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=all5.savagev2ray.site#%40Vpnmasi%20-%20Ws-nf6jve9u
 ss://72a36854-1645-4878-b961-420176d7f4bd@185.146.173.95:8880?type=ws&amp;path=%2FTelegram+-+@Vpnmasi+-+Telegram+-+@Vpnmasi&amp;host=all5.savagev2ray.site&amp;security=none#%40Vpnmasi%20-%20Ws1-o5scrg4x
 ss://2d6d3452-1bb3-481b-91be-0394495a0be1@www.speedtest.net:8443?type=grpc&amp;serviceName=@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=all5.savagev2ray.site#%40Vpnmasi%20-%20Grpc-9f38ehd8
-ss://Tel_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;type=ws#All @VPNCUSTOMIZE ¹
-ss://Tel_VPNCUSTOMIZE@zula.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;type=ws#All@VPNCUSTOMIZE ²
-ss://Tel_VPNCUSTOMIZE@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;type=ws#MKH VPNCUSTOMIZE
 ss://Tel_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.V2ray.C…
 ss://TeL_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;type=ws#All @VPNCUSTOMIZE ¹
 ss://TeL_VPNCUSTOMIZE@zula.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;type=ws#All@VPNCUSTOMIZE ²
