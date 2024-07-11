@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-10-Jul-2024 23:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-11-Jul-2024 04:15
 ss://Source_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;type=ws#All @Lrnbymaa
 ss://Source_VPNCUSTOMIZE@zula.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;type=ws#All@Lrnbymaa
 ss://Source_VPNCUSTOMIZE@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;type=ws#MKH Lrnbymaa
@@ -410,7 +410,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Freakconfig
 ss://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMGZiNzg2Ny05NWFkLTRlYWYtOTlmMS0yMjI1NWJlYjYyNTEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJARnJlYWtjb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiMVMwdGJwY3lzVFZ6S25uZmtiYXhLOG15a2FpWVloRHJIMmpZR3J2MnE1emJDekFqbC5wcm90b25peC5pci4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 ss://24347e96-912c-4f53-9c67-9cc895fc6fdf@185.146.173.20:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=h5.xn--gmq282ekfhyys3gs.com.&amp;type=ws#TELEGRAM-FREAKCONFIG
-ss://adef69de-dc26-467f-8b12-1b83873f016e@iranserver.com:8080?path=%2F%54eleg%72am%3A%40Unl%69mit%65dDev-%54eleg%72am%3A%40Unl%69mit%65dDev&amp;secu…
+ss://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?security=none&amp;encryption=none&amp;host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&amp;type=ws#%40Freakconfig
+ss://68da4304-05a7-4d0a-b983-8e2ea5080442@151.101.64.155:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=farm.vpn.farm.vpnbdhdjwj.sbs&amp;type=ws&amp;sni=www.elledecor.com#%40Freakconfig
+ss://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@avval.ir:8443?security=tls&amp;encryption=none&amp;host=vip-romax-tiktok.hsjsak.ir&amp;fp=random&amp;type=ws&amp;sni=vip-romax-tiktok.hsjsak.ir#%40Freakconfig
 ss://cbd0bb00-295e-448f-b07f-47164e8e8196@iranserver.com:8080?path=%2F%54eleg%72am%3A%40Unl%69mit%65dDev-%54eleg%72am%3A%40Unl%69mit%65dDev&amp;security=none&amp;encryption=none=path=/Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY&amp;host=unl%69mit%65ddev-vpn.unl%69mit%65ddev.Community.&amp;type=ws#
 ss://199a85a7-20ba-4014-8b95-fb1043521f6e@2.189.59.2:443?mode=gun&amp;security=tls&amp;encryption=none&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=/Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY&amp;serviceName=Channel%3A%40Unl%69mit%65dDev&amp;sni=mci.unl%69mit%65ddev-vpn.Com.#
 ss://cbd0bb00-295e-448f-b07f-47164e8e8196@iranserver.com:8080?path=%2F%54eleg%72am%3A%40Unl%69mit%65dDev-%54eleg%72am%3A%40Unl%69mit%65dDev&amp;se…
@@ -426,7 +428,8 @@ ss://-Channel--ELiV2RAY-@iranserver.com:8080?path=@ELiV2ray-@ELiV2ray-ELi.elmahs
 ss://-Channel--ELiV2RAY@185.146.173.143:8080?path=@ELiV2--@ELiV2--@ELiV2--@ELiV2%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=f1.elena-cloudflare.com&amp;type=ws#
 ss://-Channel--ELiV2RAY-@iranserver.com:8080?path=@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=ELi.V2ray.motorcycles&amp;ty…
 ss://-Channel-ELiV2RAY-@iranserver.com:8080?path=@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=ELi.V2ray.motorcycles&amp;type=ws#
-ss://-Channel--ELiV2RAY-@repo.steampowered.com:8080?path=@ELiV2--@ELiV2--@ELiV2--@ELiV2%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=f1.elena-cloudflare.com&amp;type=ws#
+ss://-ELiV2-ELiV2-ELiV2-ELiV2-@repo.steampowered.com:8080?path=%2FHPV-2ray--repo.steampowered.com%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=f1.elenaspeedtest.net.&amp;type=ws#
+ss://-Channel-ELiV2RAY-@iranserver.com:8080?path=@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=ELi.V2ray.motorcycles…
 ss://-Channel-ELiV2RAY-@iranserver.com:8080?path=@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=ELi.V2ray.motorcycles…
 ss://e36b2151-7586-440e-b21b-0c721b5aed17@185.146.173.58:8080?path=%2Fservernet&amp;security=none&amp;encryption=none&amp;host=dcc6.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+2
 ss://188a6f86-29ee-485d-843b-9e12cccf3ef0@185.146.173.58:2095?path=%2Fservernet&amp;security=none&amp;encryption=none&amp;host=dcc5.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+1
@@ -1398,6 +1401,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Freakconfig
 ss://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMGZiNzg2Ny05NWFkLTRlYWYtOTlmMS0yMjI1NWJlYjYyNTEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJARnJlYWtjb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiMVMwdGJwY3lzVFZ6S25uZmtiYXhLOG15a2FpWVloRHJIMmpZR3J2MnE1emJDekFqbC5wcm90b25peC5pci4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 ss://24347e96-912c-4f53-9c67-9cc895fc6fdf@185.146.173.20:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=h5.xn--gmq282ekfhyys3gs.com.&amp;type=ws#TELEGRAM-FREAKCONFIG
+ss://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?security=none&amp;encryption=none&amp;host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&amp;type=ws#%40Freakconfig
+ss://68da4304-05a7-4d0a-b983-8e2ea5080442@151.101.64.155:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=farm.vpn.farm.vpnbdhdjwj.sbs&amp;type=ws&amp;sni=www.elledecor.com#%40Freakconfig
+ss://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@avval.ir:8443?security=tls&amp;encryption=none&amp;host=vip-romax-tiktok.hsjsak.ir&amp;fp=random&amp;type=ws&amp;sni=vip-romax-tiktok.hsjsak.ir#%40Freakconfig
 ss://42f84d7c-f225-425b-b2cd-56043d76c6be@best.configforvpn.fun:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=d7ai1rsnr28Xv2F2TktDrZ_YCbUK55w0QHPHcUYWLR8&amp;fp=chrome&amp;spx=%2F&amp;ty…
 ss://446cf1db-74f9-4f26-91ad-3acb9fc2beb0@best.configforvpn.fun:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=d7ai1rsnr28Xv2F2TktDrZ_YCbUK55w0QHPHcUYWLR8&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@configforVPN&amp;sni=greenpepper.ir&amp;sid=614214c8#%40ConfigforVPN
 ss://a63caad0-3d94-4fa7-956d-439524c6cdf5@cloud.configforvpn.fun:2096?path=%2Fmm&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
