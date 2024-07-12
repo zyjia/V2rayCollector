@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-12-Jul-2024 04:14
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-12-Jul-2024 08:40
 hy2://BjJBojuzng@91.231.182.239:17479/?insecure=1&amp;obfs=salamander&amp;obfs-password=KJkjsusu878734jhhYyUJJ#
 hy2://BjJBojuzng@91.231.182.239:18221/?insecure=1&amp;obfs=salamander&amp;obfs-password=KHg%20jGG5557jkskKSJSJ#
 hy2://BjJBojuzng@91.231.182.239:52894/?insecure=1&amp;obfs=salamander&amp;obfs-password=kj34HJhs673518Fhats#
