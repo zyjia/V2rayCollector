@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-23-Sep-2024 23:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-24-Sep-2024 04:23
 vless://681a14c9-08fe-4aa6-a876-7f8491d4662b@www.speedtest.net:8443?path=/www.speedtest.net/VPNCSTOMIZE%3Fed%3D8443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=VPNCUSTOMIZE.speedtest.net.Naziitnes…
 vless://45cf6535-aed3-43a4-acb9-833dd0fc0cd7@www.speedtest.net:8443?path=/www.speedtest.net/VPNCSTOMIZE%3Fed%3D8443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=VPNCUSTOMIZEe.www.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=VPNCUSTOMIZEe.www.speedtest.net.Naziitness.com#
 vless://6afc84e4-0d3d-4d4f-9c89-5798685f21df@www.speedtest.net:8443?path=/www.speedtest.net/VPNCSTOMIZE%3Fed%3D8443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#
