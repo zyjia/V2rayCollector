@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-02-Oct-2024 23:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-03-Oct-2024 04:22
 vless://2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.44.57:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=e420ceed.aryoo-vpn-friends.pages.dev&amp;type=ws&amp;sni=e420ceed.aryoo-vpn-friends.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%40networknim
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5c53ca21.vpn-aryoo.pages.dev&amp;type=ws&amp;sni=5c53ca21.vpn-aryoo.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%40networknim
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?path=%2FStDNeNqkbQxrj6Xy%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=mIDsuMMer-bpb.PAgEs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=midsUMmER-Bpb.pAgES.DEV#%F0%9F%87%BA%F0%9F%87%B8%40networknim
@@ -422,7 +422,6 @@ vless://a3e76574-9458-4783-905b-970cf0ccdcd1@melo-mtn.outline-vpn.cloud:443?mode
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@cf-wkrs-pages-vless-aoy.pages.dev:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=cf-wkrs-pages-vless-aoy.pages.dev&amp;type=ws&amp;sni=cf-wkrs-pages-vless-aoy.pages.dev#%40v2rayng_org
 vless://1c3e580a-bd02-4bdb-9bfe-349903422037@uciran.wallerman-come.gq:58465?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#%40v2rayng_org
 vless://fc6395b9-8060-41b2-82f1-a55419093fe9@usa-join.outline-vpn.fun:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=U79mwBYXYzaNs1L57EDyJNC5p8HSrQYx1GDnBdttgmw&amp;fp=firefox&amp;spx=%2Fvideos%2F&amp;type=grpc&amp;serviceName=Telegram:
-vless://TElegra-V2RAYNG_VPNN@cipcip.bozgosfanfasb.cfd:8585?security=none&amp;encryption=none&amp;host=iran.ir&amp;headerType=http&amp;type=tcp#%40v2rayng_vpnn+%28+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%29  حجمش تموم بشه قطع میشه 
 vless://telegramm-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?security=none&amp;encryption=none&amp;host=iran.ir&amp;headerType=http&amp;type=tcp#%40v2rayng_vpnn
 vless://telegramm-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?security=none&amp;encryption=none&amp;host=iran.ir&amp;headerType=http&amp;type=tcp#%40v2rayng_vpnn  حجمش تموم بشه قطع میشه 
 vless://telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&amp;path=%2F&amp;host=iran.ir&amp;headerType=http&amp;security=none#%40v2rayng_vpnn
