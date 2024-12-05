@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-04-Dec-2024 23:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-05-Dec-2024 04:28
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -70,6 +70,8 @@ trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
 trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@152.70.245.233:21105?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=sale.alibaba.com#%F0%9F%8C%B6%EF%B8%8F19%40ConfigV2RayNG
 trojan://qiuxiuyalovemikuforever@38.174.112.118:23331?path=%2Fqiuxiuya&amp;security=tls&amp;host=bing.com&amp;type=ws&amp;sni=bing.com#%F0%9F%8C%B6%EF%B8%8F36%40ConfigV2RayNG
+trojan://Telegram-VPNCUSTOMIZE@104.17.234.12:443?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560&amp;security=tls&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;type=ws&amp;sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za#VPNCUSTOMIZE (ALL)
+trojan://Telegram-VPNCUSTOMIZE@104.17.234.12:443?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560&amp;security=tls&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedte…
 trojan://VPNCUSTOMIZE-VPNCUSTOMIZE@104.17.234.12:443?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560&amp;security=tls&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;type=ws&amp;sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za#VPNCUSTOMIZE (ALL)
 trojan://VPNCUSTOMIZE-VPNCUSTOMIZE@104.17.234.12:443?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560&amp;security=tls&amp;host=1.2.3.4.5.6.7.8.9.10.www.spe…
 trojan://VPNCUSTOMIZE-VPNCUSTOMIZE@104.17.234.12:443?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560&amp;security=tls&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;type=ws&amp;sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za#VPNCUSTOMIZE (ALL)
