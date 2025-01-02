@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-02-Jan-2025 13:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-02-Jan-2025 18:41
 vless://80fd800a-f398-436f-d6d5-e32a4f484768@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40Piazshekan%2829%29
 vless://5a9e72d1-8e1e-4713-d907-f2a5b95f9aa6@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40Piazshekan%2828%29
 vless://80fd800a-f398-436f-d6d5-e32a4f484768@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40Piazshekan%2829%29
@@ -372,11 +372,6 @@ vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:80?security=none
 vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.drlimit.net#telegram 
 vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.drlimit.net#telegram 
 vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v16.drlimit.net#telegram 
-vless://12ebd58f-eeb6-4180-8223-809ba54567c1@ser1.servernettt.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40SERVERNETT%20Mtn%201
-vless://04c34012-b18d-4d35-a736-b5048e6cde33@ser1.servernettt.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40SERVERNETT%20Mtn%202
-vless://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
-vless://d404d958-d1ed-4002-a3d4-88c10fa7007a@[2a01:4f8:c012:2a1c::1]:30546?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
-vless://12ebd58f-eeb6-4180-8223-809ba54567c1@ser1.servernettt.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40SERVERNETT%20Mtn%201  vless://04c34012-b18d-4d35-a736-b5048e6cde33@ser…
 vless://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://d404d958-d1ed-4002-a3d4-88c10fa7007a@[2a01:4f8:c012:2a1c::1]:30546?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c013:95f7::1]:16053?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
@@ -393,6 +388,8 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:15486?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 vless://682e220c-0db8-4c47-8c7a-f719639a4b4a@65.109.241.111:14327?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http#https%3A%2F%2Ft.me%2Fcustom_14-5coifskkf
 vless://7c2346f7-122e-4397-f6dd-39053443d8f2@65.109.241.111:44174?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-izxxx1gey
 vless://934943ff-bc93-4715-ed3c-c7b33cdedb40@65.109.241.111:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
@@ -487,18 +484,6 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&amp
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayNG3
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayNG3
 vless://5030cac9-830d-4c7e-9deb-ad26d18bb82e@95.181.162.108:8880?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayNG3
-vless://V2RAXX@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=V2RAXX.ir&amp;type=ws#https://t.me/ShadowsocksM
-vless://V2RAXX---
-vless://30289f13-0ea2-44bd-b084-2e04f29df3f0@www.speedtest.net:2096?path=%2FTel%3A%40NT_Safe&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=jesipinkman.gorgali.space&amp;fp=chrome&amp;type=ws&amp;sni=jesipinkman.gorgali.space#https://t.me/ShadowsocksM
-vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&amp;encryption=none&amp;pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.speedtest.net#https://t.me/ShadowsocksM
-vless://9285ccc5-fe57-4c84-9291-17e7050e0c4c@free.sabettrade.shop:46748?type=ws&amp;security=none&amp;path=%2F#https://t.me/ShadowsocksM
-vless://89cab344-a811-489f-ebc3-22d24aabe5a1@free.sabettrade.shop:22727?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#https://t.me/ShadowsocksM
-vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=
-vless://user@s26.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s26.mynameismahsa.info#https://t.me/ShadowsocksM
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:15486?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.80.164.121:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#https://t.me/ShadowsocksM
 vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snappshop.ir&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#https://t.me/ShadowsocksM
 vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=okala.com&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#https://t.me/ShadowsocksM
@@ -688,6 +673,7 @@ vless://d304cf7d-67bc-4e0a-8f8f-1599e6005066@hajlab.ucdavis.edu:443?path=%2F@XvP
 vless://63177cce-4eb5-432d-bf97-b334b4d19e77@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-6ig2r0yl
 vless://85785498-b9f6-4607-bf25-31d849fb86eb@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-ycg9vwla
 vless://a2a8b449-c84e-4347-981e-41d249fdec80@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-3uzgatw3
+vless://668e5bd9-6c27-4e12-b68a-67f5d12d3ff8@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-v7328myj
 vless://641e0e8f-9503-44f9-ba8c-6288fe409cb9@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehran2.Org&amp;type=ws#%40vpn_proxy_custom
 vless://d5e4bac0-3777-5c82-8482-0784f5a7f79c@fishlab.ucdavis.edu:443?path=%2Fvless%3Fed%3D443&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=speedtest.net.ftp.debian.org.1.2.3.a.s.z.rrrrrrr.net.speedtest.net.razxkl.ir&amp;fp=randomized&amp;type=ws&amp;sni=fishlab.ucdavis.edu#%F0%9F%87%B3%F0%9F%87%B4+%40vpn_proxy_custom
 vless://0f7f55fe-262d-5cc6-a59e-8dd512791a98@davidlab.ucdavis.edu:443?path=%2Fvless%3Fed%3D443&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=speedtest.net.ftp.debian.org.1.2.3.j.z.x.jjjjjjjjj.netspeedtest.net.sewzx.iuyal.ir&amp;fp=randomized&amp;type=ws&amp;sni=davidlab.ucdavis.edu#SE+%F0%9F%87%B8%F0%9F%87%AA++%40vpn_proxy_custom
@@ -705,8 +691,6 @@ vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram
 vless://TELEGRAM-NUFiLTER@hajlab.ucdavis.edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=London.nufilter.com&amp;fp=chrome&amp;type=ws&amp;sni=hajlab.ucdavis.edu#%40vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+tls
 vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=Germany2.vip-nufilter.coM&amp;fp=chrome&amp;type=ws&amp;sni=Zmaoz.Faculty.Ucdavis.Edu#%40vip_vpn_2022%20%F0%9F%87%A9%F0%9F%87%AA%20tls5
 vless://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@speedtest.net:443?path=%2Fws%40%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=justFreedomByIMAN.com&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#Freedom
-vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=irantvto.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
-vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=niopdc.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=irantvto.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=irantvto.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=www.nezamsakhteman.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
@@ -720,6 +704,7 @@ vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption
 vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=setadiran.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=irantvto.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=karafarini.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
+vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=ndmo.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://0c70e45e-2019-4fbc-9ed0-b8f4eb5c276f@all.mdvpnsec.cfd:443?type=ws&amp;path=%2F=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=MdVpnSec-V2rayNg-Free.snappfoodd.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#All | @ghalagyann
 vless://300350fe-9d0f-4cb8-9681-d1fc9a2e40d2@all.mdvpnsec.cfd:80?path=%2F&amp;security=none&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#All | @ghalagyann
 vless://5a9b3af0-31c7-443d-b3fd-4d2d9dad7996@shhproxy.varzesh3-cnd.site:2087?path=%2F&amp;security=tls&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=gmV2raybo.shhproxyfree.com&amp;type=ws&amp;sni=gmV2raybo.shhproxyfree.com#All | @ghalagyann
@@ -1368,11 +1353,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig55.usecharg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig54.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig57.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%A6%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig56.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%AC%F0%9F%87%A7
-ss://12ebd58f-eeb6-4180-8223-809ba54567c1@ser1.servernettt.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40SERVERNETT%20Mtn%201
-ss://04c34012-b18d-4d35-a736-b5048e6cde33@ser1.servernettt.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40SERVERNETT%20Mtn%202
-ss://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
-ss://d404d958-d1ed-4002-a3d4-88c10fa7007a@[2a01:4f8:c012:2a1c::1]:30546?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
-ss://12ebd58f-eeb6-4180-8223-809ba54567c1@ser1.servernettt.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40SERVERNETT%20Mtn%201  vless://04c34012-b18d-4d35-a736-b5048e6cde33@ser…
 ss://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 ss://d404d958-d1ed-4002-a3d4-88c10fa7007a@[2a01:4f8:c012:2a1c::1]:30546?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 ss://TELEGRAM-ServerNett@[2a01:4f8:c013:95f7::1]:16053?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
@@ -1389,6 +1369,8 @@ ss://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&amp;encrypt
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:15486?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
+ss://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
+ss://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#configkade%F0%9F%91%89%40proxystore11
@@ -1539,29 +1521,6 @@ ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&amp;en
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayNG3
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayNG3
 ss://5030cac9-830d-4c7e-9deb-ad26d18bb82e@95.181.162.108:8880?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayNG3
-ss://V2RAXX@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=V2RAXX.ir&amp;type=ws#https://t.me/ShadowsocksM
-ss://V2RAXX---
-ss://30289f13-0ea2-44bd-b084-2e04f29df3f0@www.speedtest.net:2096?path=%2FTel%3A%40NT_Safe&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=jesipinkman.gorgali.space&amp;fp=chrome&amp;type=ws&amp;sni=jesipinkman.gorgali.space#https://t.me/ShadowsocksM
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.218:8882#https://t.me/ShadowsocksM
-ss://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&amp;encryption=none&amp;pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.speedtest.net#https://t.me/ShadowsocksM
-ss://9285ccc5-fe57-4c84-9291-17e7050e0c4c@free.sabettrade.shop:46748?type=ws&amp;security=none&amp;path=%2F#https://t.me/ShadowsocksM
-ss://89cab344-a811-489f-ebc3-22d24aabe5a1@free.sabettrade.shop:22727?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#https://t.me/ShadowsocksM
-ss://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=
-ss://user@s26.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s26.mynameismahsa.info#https://t.me/ShadowsocksM
-ss://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-ss://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:15486?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-ss://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-ss://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.252:443#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig42.usecharge.ir:443#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig41.usecharge.ir:443#https://t.me/ShadowsocksM
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.80.164.121:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#https://t.me/ShadowsocksM
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#https://t.me/ShadowsocksM
 ss://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snappshop.ir&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#https://t.me/ShadowsocksM
@@ -1858,6 +1817,7 @@ ss://d304cf7d-67bc-4e0a-8f8f-1599e6005066@hajlab.ucdavis.edu:443?path=%2F@XvProx
 ss://63177cce-4eb5-432d-bf97-b334b4d19e77@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-6ig2r0yl
 ss://85785498-b9f6-4607-bf25-31d849fb86eb@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-ycg9vwla
 ss://a2a8b449-c84e-4347-981e-41d249fdec80@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-3uzgatw3
+ss://668e5bd9-6c27-4e12-b68a-67f5d12d3ff8@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-v7328myj
 ss://641e0e8f-9503-44f9-ba8c-6288fe409cb9@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehran2.Org&amp;type=ws#%40vpn_proxy_custom
 ss://d5e4bac0-3777-5c82-8482-0784f5a7f79c@fishlab.ucdavis.edu:443?path=%2Fvless%3Fed%3D443&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=speedtest.net.ftp.debian.org.1.2.3.a.s.z.rrrrrrr.net.speedtest.net.razxkl.ir&amp;fp=randomized&amp;type=ws&amp;sni=fishlab.ucdavis.edu#%F0%9F%87%B3%F0%9F%87%B4+%40vpn_proxy_custom
 ss://0f7f55fe-262d-5cc6-a59e-8dd512791a98@davidlab.ucdavis.edu:443?path=%2Fvless%3Fed%3D443&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=speedtest.net.ftp.debian.org.1.2.3.j.z.x.jjjjjjjjj.netspeedtest.net.sewzx.iuyal.ir&amp;fp=randomized&amp;type=ws&amp;sni=davidlab.ucdavis.edu#SE+%F0%9F%87%B8%F0%9F%87%AA++%40vpn_proxy_custom
@@ -1882,8 +1842,6 @@ ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NU
 ss://TELEGRAM-NUFiLTER@hajlab.ucdavis.edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=London.nufilter.com&amp;fp=chrome&amp;type=ws&amp;sni=hajlab.ucdavis.edu#%40vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+tls
 ss://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=Germany2.vip-nufilter.coM&amp;fp=chrome&amp;type=ws&amp;sni=Zmaoz.Faculty.Ucdavis.Edu#%40vip_vpn_2022%20%F0%9F%87%A9%F0%9F%87%AA%20tls5
 ss://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@speedtest.net:443?path=%2Fws%40%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=justFreedomByIMAN.com&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#Freedom
-ss://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=irantvto.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
-ss://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=niopdc.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=irantvto.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=irantvto.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=www.nezamsakhteman.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
@@ -1897,6 +1855,7 @@ ss://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=no
 ss://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=setadiran.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=irantvto.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=karafarini.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
+ss://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=ndmo.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://0c70e45e-2019-4fbc-9ed0-b8f4eb5c276f@all.mdvpnsec.cfd:443?type=ws&amp;path=%2F=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=MdVpnSec-V2rayNg-Free.snappfoodd.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#All | @ghalagyann
 ss://300350fe-9d0f-4cb8-9681-d1fc9a2e40d2@all.mdvpnsec.cfd:80?path=%2F&amp;security=none&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#All | @ghalagyann
 ss://5a9b3af0-31c7-443d-b3fd-4d2d9dad7996@shhproxy.varzesh3-cnd.site:2087?path=%2F&amp;security=tls&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=gmV2raybo.shhproxyfree.com&amp;type=ws&amp;sni=gmV2raybo.shhproxyfree.com#All | @ghalagyann
@@ -2001,11 +1960,6 @@ trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;t
 trojan://rpMVmvNuUp@sr-2.sourcekade.pw:45967?security=tls&amp;headerType=none&amp;type=tcp#%F0%9F%87%B2%F0%9F%87%AB%40FreeNim
 trojan://telegram-id-privatevpns@18.192.123.7:22222?mode=gun&amp;security=tls&amp;alpn=h2&amp;type=grpc&amp;serviceName=bkibtrojangrpc&amp;sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AA
 trojan://telegram-id-privatevpns@3.76.204.41:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AA
-trojan://telegram-id-v2rayvpnchannel@63.33.77.210:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
-trojan://telegram-id-v2rayvpnchannel@34.254.140.84:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
-trojan://telegram-id-v2rayvpnchannel@3.96.122.222:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
-trojan://telegram-id-v2rayvpnchannel@15.222.171.25:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
-trojan://telegram-id-v2rayvpnchannel@52.14.47.195:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@18.189.79.192:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@18.215.77.100:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@16.16.73.73:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
@@ -2018,11 +1972,11 @@ trojan://telegram-id-v2rayvpnchannel@15.236.166.81:22222?security=tls&amp;alpn=h
 trojan://telegram-id-v2rayvpnchannel@15.188.214.186:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@35.177.6.119:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@35.176.78.25:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
-trojan://telegram-id-v2rayvpnchannel@63.33.77.210:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
-trojan://telegram-id-v2rayvpnchannel@34.254.140.84:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
-trojan://telegram-id-v2rayvpnchannel@3.96.122.222:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
-trojan://telegram-id-v2rayvpnchannel@15.222.171.25:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
-trojan://telegram-id-v2rayvpnchannel@52.14.47.195:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
+trojan://telegram-id-v2rayvpnchannel@54.246.93.88:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
+trojan://telegram-id-v2rayvpnchannel@52.215.144.11:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
+trojan://telegram-id-v2rayvpnchannel@15.222.110.13:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
+trojan://telegram-id-v2rayvpnchannel@99.79.13.95:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
+trojan://telegram-id-v2rayvpnchannel@18.221.126.248:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@18.189.79.192:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@18.215.77.100:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@16.16.73.73:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
@@ -2035,18 +1989,14 @@ trojan://telegram-id-v2rayvpnchannel@15.236.166.81:22222?security=tls&amp;alpn=h
 trojan://telegram-id-v2rayvpnchannel@15.188.214.186:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@35.177.6.119:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@35.176.78.25:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
+trojan://telegram-id-v2rayvpnchannel@54.246.93.88:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
+trojan://telegram-id-v2rayvpnchannel@52.215.144.11:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
+trojan://telegram-id-v2rayvpnchannel@15.222.110.13:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
+trojan://telegram-id-v2rayvpnchannel@99.79.13.95:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
+trojan://telegram-id-v2rayvpnchannel@18.221.126.248:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
-trojan://telegram-id-privatevpns@52.56.171.102:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
-trojan://telegram-id-privatevpns@35.179.218.63:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
-trojan://telegram-id-privatevpns@54.228.243.155:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
-trojan://telegram-id-privatevpns@54.170.224.134:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
-trojan://telegram-id-privatevpns@13.50.254.223:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
-trojan://telegram-id-privatevpns@16.170.127.250:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
-trojan://telegram-id-privatevpns@18.194.63.128:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
-trojan://telegram-id-privatevpns@3.124.72.124:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
-trojan://telegram-id-privatevpns@13.37.21.185:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
 trojan://telegram-id-privatevpns@13.36.81.143:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
 trojan://telegram-id-privatevpns@3.9.225.194:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
 trojan://telegram-id-privatevpns@3.11.24.136:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
@@ -2057,13 +2007,20 @@ trojan://telegram-id-privatevpns@51.21.118.255:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@3.72.192.229:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@18.158.92.51:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@13.39.227.60:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
+trojan://telegram-id-privatevpns@35.180.161.76:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
+trojan://telegram-id-privatevpns@3.8.108.119:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
+trojan://telegram-id-privatevpns@35.179.44.103:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
+trojan://telegram-id-privatevpns@54.155.92.147:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
+trojan://telegram-id-privatevpns@54.228.153.22:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
+trojan://telegram-id-privatevpns@13.50.143.48:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
+trojan://telegram-id-privatevpns@13.49.169.247:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
+trojan://telegram-id-privatevpns@3.127.82.160:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
+trojan://telegram-id-privatevpns@18.196.220.40:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
 trojan://auto@104.20.19.168:2083?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%40V2rayNG3
 trojan://bpb-trojan@104.18.34.21:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http/1.1&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpB-worKER-paneL1-e4p.pAGes.dEV#%40V2rayNG3
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&amp;headerType=none&amp;type=tcp#%40V2rayNG3
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&amp;headerType=none&amp;type=tcp#%40V2rayNG3
 trojan://bpb-trojan@www.vpslook.com:443?path=%2Ftr%3Fed%3D2560&amp;security=tls&amp;alpn=h3&amp;host=bpb-hd.aaronchin.xyz&amp;fp=randomized&amp;type=ws&amp;sni=bpb-hd.aaronchin.xyz#%40V2rayNG3
-trojan://user@s1.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s1.mynameismahsa.info#https://t.me/ShadowsocksM
-trojan://user@s2.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s2.mynameismahsa.info#https://t.me/ShadowsocksM
 trojan://telegram-id-privatevpns@13.50.254.223:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#https://t.me/ShadowsocksM
 trojan://telegram-id-privatevpns@16.170.127.250:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#https://t.me/ShadowsocksM
 trojan://telegram-id-privatevpns@18.194.63.128:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#https://t.me/ShadowsocksM
