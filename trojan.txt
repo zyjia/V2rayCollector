@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-23-Jan-2025 04:22
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-23-Jan-2025 08:42
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -66,8 +66,6 @@ trojan://telegram-id-privatevpns@3.8.111.83:22222?security=tls&amp;alpn=http/1.1
 trojan://telegram-id-privatevpns@51.24.50.148:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
 trojan://telegram-id-privatevpns@52.213.70.236:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
 trojan://telegram-id-privatevpns@63.35.207.107:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
-trojan://3723507166611775488@80.240.112.167:443?security=tls&amp;sni=ample-cockatoo.boa152.lol&amp;allowInsecure=1&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://a38f4d99-8726-3484-8341-91eb513e7a3c@gy.58n.net:20130?security=tls&amp;sni=x130.flybar.work&amp;allowInsecure=1&amp;type=tcp#https://t.me/ShadowsocksM
 trojan://7799b1f0-d84f-11ef-8fdf-1239d0255272@51.38.65.155:443?security=tls&amp;sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&amp;type=tcp#https://t.me/ShadowsocksM
 trojan://90580010-d84f-11ef-8489-1239d0255272@15.204.234.166:443?security=tls&amp;sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&amp;type=tcp#https://t.me/ShadowsocksM
 trojan://b76ced90-d84f-11ef-8c0c-1239d0255272@51.210.182.170:443?security=tls&amp;sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&amp;type=tcp#https://t.me/ShadowsocksM
