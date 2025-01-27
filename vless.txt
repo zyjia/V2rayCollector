@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-26-Jan-2025 23:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-27-Jan-2025 04:23
 vless://5116ca09-46e7-4c3e-81d1-ecf38314e34c@ok2.arsalantau.sbs:8880?security=none&amp;encryption=none&amp;host=bmi.ir&amp;headerType=http&amp;type=tcp#%5B%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%F0%9F%98%88+prrofile_purple%40
 vless://62f8abb6-c342-441a-d614-bd99d87c9a1f@isegaro.ddns.net:2083?security=tls&amp;encryption=&amp;headerType=&amp;type=ws#%5B%F0%9F%87%AB%F0%9F%87%B7%5D%20telegram%20%40prrofile_purple
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@sp1.tioet.com:443?path=users%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;type=ws&amp;sni=bmi.ir#%F0%9F%87%AE%F0%9F%87%B7%40NTGreen
