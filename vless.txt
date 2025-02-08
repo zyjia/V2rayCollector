@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-07-Feb-2025 23:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-08-Feb-2025 04:21
 vless://7104da79-f958-40fd-96f2-d8f7396984f4@g.soskom.ir:52439?type=grpc&amp;mode=gun&amp;security=reality&amp;fp=chrome&amp;sni=yahoo.com&amp;pbk=2Vxork2cQs-t5sqBYPt5ObPyex0jk7E2ND5we52m_0Y&amp;sid=2e094153c17b67&amp;spx=/#lrnbymaa
 vless://2a077ac8-d831-4a2f-8e58-d6da018f0102@g.soskom.ir:52439?type=grpc&amp;mode=gun&amp;security=reality&amp;fp=chrome&amp;sni=yahoo.com&amp;pbk=2Vxork2cQs-t5sqBYPt5ObPyex0jk7E2ND5we52m_0Y&amp;sid=2e094153c17b67&amp;spx=/#Lrnbymaa
 vless://5116ca09-46e7-4c3e-81d1-ecf38314e34c@ok2.arsalantau.sbs:8880?security=none&amp;encryption=none&amp;host=bmi.ir&amp;headerType=http&amp;type=tcp#%5B%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%F0%9F%98%88+prrofile_purple%40
