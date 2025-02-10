@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-09-Feb-2025 23:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-10-Feb-2025 04:24
 vless://7104da79-f958-40fd-96f2-d8f7396984f4@g.soskom.ir:52439?type=grpc&amp;mode=gun&amp;security=reality&amp;fp=chrome&amp;sni=yahoo.com&amp;pbk=2Vxork2cQs-t5sqBYPt5ObPyex0jk7E2ND5we52m_0Y&amp;sid=2e094153c17b67&amp;spx=/#lrnbymaa
 vless://2a077ac8-d831-4a2f-8e58-d6da018f0102@g.soskom.ir:52439?type=grpc&amp;mode=gun&amp;security=reality&amp;fp=chrome&amp;sni=yahoo.com&amp;pbk=2Vxork2cQs-t5sqBYPt5ObPyex0jk7E2ND5we52m_0Y&amp;sid=2e094153c17b67&amp;spx=/#Lrnbymaa
 vless://5116ca09-46e7-4c3e-81d1-ecf38314e34c@ok2.arsalantau.sbs:8880?security=none&amp;encryption=none&amp;host=bmi.ir&amp;headerType=http&amp;type=tcp#%5B%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%F0%9F%98%88+prrofile_purple%40
@@ -221,6 +221,8 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz7.usecharge.ir:3237?sec
 vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs7.usecharge.ir:443?mode=packet-up&amp;path=%2Fln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz8.usecharge.ir:3237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig%20%F0%9F%87%AB%F0%9F%87%B73
 vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs8.usecharge.ir:443?mode=packet-up&amp;path=%2Fln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
+vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs9.usecharge.ir:443?mode=packet-up&amp;path=%2Fln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz9.usecharge.ir:3237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig%20%F0%9F%87%AB%F0%9F%87%B73
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:13776?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:51047?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:30562?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
@@ -515,6 +517,8 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz7.usecharge.ir:3237?sec
 vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs7.usecharge.ir:443?mode=packet-up&amp;path=%2Fln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz8.usecharge.ir:3237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig%20%F0%9F%87%AB%F0%9F%87%B73
 vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs8.usecharge.ir:443?mode=packet-up&amp;path=%2Fln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
+vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs9.usecharge.ir:443?mode=packet-up&amp;path=%2Fln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz9.usecharge.ir:3237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig%20%F0%9F%87%AB%F0%9F%87%B73
 vless://446cf1db-74f9-4f26-91ad-3acb9fc2beb0@best.configforvpn.fun:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=d7ai1rsnr28Xv2F2TktDrZ_YCbUK55w0QHPHcUYWLR8&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@configforVPN&amp;sni=greenpepper.ir&amp;sid=614214c8#%40ConfigforVPN
 vless://a63caad0-3d94-4fa7-956d-439524c6cdf5@cloud.configforvpn.fun:2096?path=%2Fmm&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
 vless://717284f5-c674-4ffd-a197-ea9786ee3f61@turkws.configforvpn.fun:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=turkws.configforvpn.fun#%40ConfigforVPN
