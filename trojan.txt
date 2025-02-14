@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-14-Feb-2025 04:23
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-14-Feb-2025 08:42
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -45,9 +45,6 @@ trojan://telegram-id-v2rayvpnchannel@51.21.30.237:22222?security=tls&amp;alpn=ht
 trojan://telegram-id-v2rayvpnchannel@13.61.45.54:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@3.126.25.39:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@3.65.157.55:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our Channel : @v2rayvpnchannel
-trojan://Bw5Mz7QkVp@z-v2-076194.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram 
-trojan://Bw5Mz7QkVp@z-v2-080450.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram 
-trojan://Bw5Mz7QkVp@z-v2-080466.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram 
 trojan://Bw5Mz7QkVp@z-v2-080456.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram 
 trojan://Bw5Mz7QkVp@z-v2-080468.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram 
 trojan://Bw5Mz7QkVp@z-v2-082525.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram 
