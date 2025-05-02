@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-02-May-2025 04:30
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-02-May-2025 08:43
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -45,7 +45,6 @@ trojan://telegram-id-v2rayvpnchannel@51.21.59.141:22222?security=tls&amp;alpn=ht
 trojan://telegram-id-v2rayvpnchannel@56.228.72.135:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@18.193.90.151:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel : @v2rayvpnchannel
 trojan://telegram-id-v2rayvpnchannel@18.184.137.232:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel : @v2rayvpnchannel
-trojan://Aimer@162.159.133.142:443?sni=epcca.ambercc.filegear-sg.me&amp;allowInsecure=0#telegram 
 trojan://Aimer@104.16.56.28:443?security=tls&amp;sni=epcca.ambercc.filegear-sg.me&amp;type=ws&amp;host=epcca.ambercc.filegear-sg.me#telegram 
 trojan://juzi@198.244.246.67:8443?sni=juzi8186-sr1.pages.dev#telegram 
 trojan://fd693f7c-4160-41cc-9065-cbf9df5a12d4@45.146.232.172:27401?sni=q08m.vgraxiw73s.hasyaf.cn#telegram 
