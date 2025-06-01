@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-31-May-2025 23:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-01-Jun-2025 04:43
 vless://5116ca09-46e7-4c3e-81d1-ecf38314e34c@ok2.arsalantau.sbs:8880?security=none&amp;encryption=none&amp;host=bmi.ir&amp;headerType=http&amp;type=tcp#%5B%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%F0%9F%98%88+prrofile_purple%40
 vless://62f8abb6-c342-441a-d614-bd99d87c9a1f@isegaro.ddns.net:2083?security=tls&amp;encryption=&amp;headerType=&amp;type=ws#%5B%F0%9F%87%AB%F0%9F%87%B7%5D%20telegram%20%40prrofile_purple
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@sp1.tioet.com:443?path=users%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;type=ws&amp;sni=bmi.ir#%F0%9F%87%AE%F0%9F%87%B7%40NTGreen
@@ -619,6 +619,9 @@ vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?security=&amp;type
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&amp;type=ws&amp;path=/telegram-mitivpn&amp;host=iriknet.ir&amp;encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&amp;type=grpc&amp;encryption=none#@awlix_ir
+vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443?security=tls&amp;sni=us.cishanjichang.me&amp;fp=chrome&amp;type=ws&amp;path=/swordnewnewnew&amp;host=us.cishanjichang.me&amp;encryption=none#@awlix_ir
+vless://d9d7de85-cfb2-4ba8-9cf3-6354090cafa6@194.182.79.100:42438?security=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&amp;encryption=none#@awlix_ir
+vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&amp;type=grpc&amp;encryption=none#@awlix_i
 vless://446cf1db-74f9-4f26-91ad-3acb9fc2beb0@best.configforvpn.fun:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=d7ai1rsnr28Xv2F2TktDrZ_YCbUK55w0QHPHcUYWLR8&amp;fp=chrome&amp;spx=%2F&amp;ty…
 vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN
 vless://92669584-6357-4c04-88da-60c1b1ea953d@ips.configforvpn.fun:8080?path=%2Fh&amp;security=none&amp;encryption=none&amp;host=best.configforvpn.fun&amp;type=ws#%40ConfigforVPN
