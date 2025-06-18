@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-18-Jun-2025 18:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-18-Jun-2025 23:45
 hy2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.207.162:47262/?insecure=1&amp;sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 hy2://dongtaiwang.com@108.181.5.130:57773/?insecure=1&amp;sni=apple.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 hy2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002/?sni=us.10101251.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
