@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-19-Jun-2025 08:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-19-Jun-2025 13:44
 vless://5116ca09-46e7-4c3e-81d1-ecf38314e34c@ok2.arsalantau.sbs:8880?security=none&amp;encryption=none&amp;host=bmi.ir&amp;headerType=http&amp;type=tcp#%5B%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%F0%9F%98%88+prrofile_purple%40
 vless://62f8abb6-c342-441a-d614-bd99d87c9a1f@isegaro.ddns.net:2083?security=tls&amp;encryption=&amp;headerType=&amp;type=ws#%5B%F0%9F%87%AB%F0%9F%87%B7%5D%20telegram%20%40prrofile_purple
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@sp1.tioet.com:443?path=users%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;type=ws&amp;sni=bmi.ir#%F0%9F%87%AE%F0%9F%87%B7%40NTGreen
@@ -44,6 +44,7 @@ vless://3536e1fa-0850-44d1-b123-925ce12476cf@kavir.lnmarketplace.net:443?mode=st
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@kavir.lnmarketplace.net:443?mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=kavir.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;sni=kavir.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@kavir.lnmarketplace.net:443?mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=kavir.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;sni=kavir.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@kavir.lnmarketplace.net:443?mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=kavir.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;sni=kavir.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
+vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40ServerNett
 vless://682e220c-0db8-4c47-8c7a-f719639a4b4a@65.109.241.111:14327?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http#https%3A%2F%2Ft.me%2Fcustom_14-5coifskkf
 vless://7c2346f7-122e-4397-f6dd-39053443d8f2@65.109.241.111:44174?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-izxxx1gey
 vless://934943ff-bc93-4715-ed3c-c7b33cdedb40@65.109.241.111:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
