@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-03-Jul-2025 04:33
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-03-Jul-2025 08:47
 ss://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.114.204:17416?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=sourceforge.net&amp;sid=b3#ger%201%20%F0%9F%87%A9%F0%9F%87%AA%20%28%40lrnbymaa%29
 ss://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.189.100:17416?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=sourceforge.net&amp;sid=b3#ger%202%20%F0%9F%87%A9%F0%9F%87%AA%20%28%40lrnbymaa%29
 ss://a26ea133-45e6-48d9-9ff6-a05e08d81724@209.38.186.105:47948?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=N6bGwHO9Erbwn6CaSfQLGY8Oi3mGxqRXsQuHOBTMBV4&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=www.speedtest.net&amp;sid=19d2063459#ger%203%20%F0%9F%87%A9%F0%9F%87%AA%20%28%40lrnbymaa%29
@@ -584,6 +584,7 @@ ss://9f467d8b-ea26-4b2b-b866-399638bc9a1c@www.speedtest.net:80?path=%2F%40Shh_Pr
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws#https%3A%2F%2Ft.me%2Fvip_vpn_2022
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615/?encryption=none&amp;flow=&amp;host=zula.ir&amp;type=tcp&amp;headerType=http#%40Network_442_%20%F0%9F%87%A9%F0%9F%87%AA%20MTN%20%F0%9F%9B%9C
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443/?encryption=none&amp;flow=&amp;host=zula.ir%2F%3F%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;type=tcp&amp;headerType=http#%40Network_442_%20MCI%20%F0%9F%87%A9%F0%9F%87%AA%20%20pp
+ss://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?security=none&amp;encryption=none&amp;host=exo.ir&amp;headerType=http&amp;type=tcp#All%20net%20telegram%3A%40ultrasurf_12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#All%20net%20telegram%3A%40ultrasurf_12
 ss://badb069f-4acd-4206-bf9a-c4bda80d55ca@mrvip.wineston.site:1001?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#All%20net%20telegram%3A%40ultrasurf_12
 ss://ca2185ed-e671-47dd-99be-bd14d18f13d8@f2.snnap.org:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=miladhospital8.com&amp;type=xhttp#All%20net%20telegram%3A%40ultrasurf_12
