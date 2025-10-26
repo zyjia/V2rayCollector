@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-25-Oct-2025 23:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-26-Oct-2025 04:32
 trojan://loFNZbdvQu@px12.proxycom10.shop:8080#%40ProxyCom10
 trojan://ZhEUzkbLyw@px12.proxycom10.shop:38295#%40ProxyCom10
 trojan://CTqHovuas9@i6.arsalanv3.sbs:1000?security=tls&amp;headerType=none&amp;type=tcp#%E2%9C%85+%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A++prrofile_purple%40+%E2%9C%85
@@ -46,6 +46,8 @@ trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:2081?mode=gun&am
 trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:446?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;fp=chrome&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:447?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&amp;security=tls&amp;alpn=http%2F1.1&amp;host=kotlet.arshiacomplus.dpdns.org&amp;fp=firefox&amp;type=ws&amp;sni=kotlet.arshiacomplus.dpdns.org#%40EuServer
+trojan://telegram-id-privatevpns@13.39.36.94:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@3.125.163.27:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@3.70.143.10:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@13.37.7.121:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@13.39.99.3:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
@@ -69,11 +71,6 @@ trojan://juzi@172.66.46.221:443?path=%2F&amp;security=tls&amp;host=juzi8186-sr1.
 trojan://ea39fa94f1ee00999337ea1fd3318e69@203.198.122.144:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Hong%20Kong%20Netvigator
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:3161?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.baidu.com#Japan%20NTT%20PC
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&amp;security=tls&amp;alpn=http%2F1.1&amp;host=kotlet.arshiacomplus.dpdns.org&amp;fp=firefox&amp;type=ws&amp;sni=kotlet.arshiacomplus.dpdns.org#%E2%99%A8%EF%B8%8F61%40ConfigV2RayNG
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus03.weyaf9sdoh2h.space#%E2%8F%B066%40ConfigV2RayNG
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus05.weyaf9sdoh2h.space#%E2%8F%B063%40ConfigV2RayNG
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus04.weyaf9sdoh2h.space#%E2%8F%B065%40ConfigV2RayNG
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus02.weyaf9sdoh2h.space#%E2%8F%B064%40ConfigV2RayNG
-trojan://3BLPOJr3OY@pl.scpnb.top:50191?security=reality&amp;pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&amp;fp=chrome&amp;type=grpc&amp;sni=cloudflare.com&amp;sid=2e#%F0%9F%8D%AA37%40ConfigV2RayNG
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&amp;security=tls&amp;alpn=http%2F1.1&amp;host=kotlet.arshiacomplus.dpdns.org&amp;type=ws&amp;sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%AA%9E85%40ConfigV2RayNG
 trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:2081?mode=gun&amp;security=reality&amp;pbk=VK5gz4nB01usiPqPXG0z6yMo9X1E7mDKMCriwYbuAR4&amp;fp=chrome&amp;type=grpc&amp;sni=www.modernpotterystudio.com&amp;sid=7e0b#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:446?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;fp=chrome&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
