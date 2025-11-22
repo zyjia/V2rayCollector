@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-22-Nov-2025 04:29
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-22-Nov-2025 08:42
 hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&amp;sni=hl01.mistea.top#https://t.me/ShadowsocksM8
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?insecure=1#https://t.me/ShadowsocksM23
 hy2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?insecure=1&amp;sni=www.bing.com#https://t.me/ShadowsocksM29
@@ -11,4 +11,7 @@ hy2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?insecure=1#https:
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?insecure=1#https://t.me/ShadowsocksM14
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?insecure=1#https://t.me/ShadowsocksM16
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?insecure=1&amp;sni=du.wish.ml#https://t.me/ShadowsocksM22
+hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&amp;sni=de.eyucdn.xyz#H1
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056/?insecure=1&amp;sni=%F0%9F%94%92#H2
+hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#H3
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
