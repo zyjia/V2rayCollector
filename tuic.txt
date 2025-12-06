@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-06-Dec-2025 13:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-06-Dec-2025 18:42
 tuic://4e084535-bd62-458b-84a2-a0dc57c957aa:4e084535-bd62-458b-84a2-a0dc57c957aa@hktuic01.yydzx.xyz:12722?alpn=h3&amp;congestion_control=bbr&amp;sni=hktuic01.yydzx.xyz#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C5.3MB%2Fs
 tuic://a13a6ce4-cafa-4b26-a710-a03aa91c5418:a13a6ce4-cafa-4b26-a710-a03aa91c5418@40.233.77.57:52434/?congestion_control=cubic&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
